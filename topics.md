@@ -964,6 +964,7 @@
 
 ## docker 
 
+- [erikbern/ann-benchmarks](https://github.com/erikbern/ann-benchmarks) - Benchmarks of approximate nearest neighbor libraries in Python
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
@@ -2445,7 +2446,7 @@
 - [jtleek/datasharing](https://github.com/jtleek/datasharing) - The Leek group guide to data sharing
 - [bdelbosc/jmxstat](https://github.com/bdelbosc/jmxstat) - Poll JMX attributes from the command line
 - [rahulkavale/spark-examples](https://github.com/rahulkavale/spark-examples) - Examples for exploring Spark
-- [maxwedwards/spark-retreat-python](https://github.com/maxwedwards/spark-retreat-python) - 
+- [m3dwards/spark-retreat-python](https://github.com/m3dwards/spark-retreat-python) - 
 - [mantl/mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [timgifford/maven-buildtime-extension](https://github.com/timgifford/maven-buildtime-extension) - A Maven build time extension that displays the duration for each goal that is run during your build
