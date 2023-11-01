@@ -2784,7 +2784,7 @@
 - [technomancy/leiningen](https://github.com/technomancy/leiningen) - Moved to Codeberg; this is a convenience mirror
 - [Yelp/dataset-examples](https://github.com/Yelp/dataset-examples) - Samples for users of the Yelp Academic Dataset
 - [elastic/logstash-forwarder](https://github.com/elastic/logstash-forwarder) - An experiment to cut logs in preparation for processing elsewhere. Replaced by Filebeat: https://github.com/elastic/beats/tree/master/filebeat
-- [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Design Patterns
+- [chuanxshi/javascript-patterns](https://github.com/chuanxshi/javascript-patterns) - JavaScript Design Patterns
 - [karthikv/my-style](https://github.com/karthikv/my-style) - My Style is a Google Chrome extension that allows you to insert custom CSS into pages, immediately see the visual results, and have that CSS persist for future visits.
 - [fearofcode/bateman](https://github.com/fearofcode/bateman) - (ABANDONED) Simple stock trading system that optimizes its parameters with particle swarm optimization
 - [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
