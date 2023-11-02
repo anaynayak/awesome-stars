@@ -403,7 +403,7 @@
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [OWASP/railsgoat](https://github.com/OWASP/railsgoat) - A vulnerable version of Rails that follows the OWASP Top 10
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
-- [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Design Patterns
+- [chuanxshi/javascript-patterns](https://github.com/chuanxshi/javascript-patterns) - JavaScript Design Patterns
 - [quartzmo/mocha-coffeescript-browser-boilerplate](https://github.com/quartzmo/mocha-coffeescript-browser-boilerplate) - A minimalistic template for starting a CoffeeScript project with browser testing using visionmedia/mocha and chai.js
 - [square/spoon](https://github.com/square/spoon) - Distributing instrumentation tests to all your Androids.
 - [scotthmurray/d3-book](https://github.com/scotthmurray/d3-book) - Code examples for “Interactive Data Visualization for the Web”
@@ -883,7 +883,7 @@
 
 ## OCaml 
 
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 ## Objective-C 
 
