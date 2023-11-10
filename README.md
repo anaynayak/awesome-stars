@@ -201,6 +201,7 @@
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN. Can output to various formats.
+- [safedep/vet](https://github.com/safedep/vet) - Tool to achieve policy driven vetting of open source dependencies
 - [devops-kung-fu/bomber](https://github.com/devops-kung-fu/bomber) - Scans Software Bill of Materials (SBOMs) for security vulnerabilities
 - [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
@@ -1362,7 +1363,7 @@
 - [ecosyste-ms/packages](https://github.com/ecosyste-ms/packages) - An open API service providing package, version and dependency metadata of many open source software ecosystems and registries.
 - [quadziginc/quadzig](https://github.com/quadziginc/quadzig) - 
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-- [mitre/aws-foundations-cis-baseline](https://github.com/mitre/aws-foundations-cis-baseline) - InSpec profile to validate your VPC to the standards of the CIS Amazon Web Services Foundations Benchmark v1.1.0
+- [mitre/aws-foundations-cis-baseline](https://github.com/mitre/aws-foundations-cis-baseline) - InSpec profile to validate your VPC to the standards of the CIS Amazon Web Services Foundations Benchmark
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [y13i/sgviz](https://github.com/y13i/sgviz) - Visualize AWS VPC security groups.
 - [fastlane/ci](https://github.com/fastlane/ci) - Open source, self hosted, mobile optimized CI powered by fastlane
