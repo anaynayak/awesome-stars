@@ -43,6 +43,7 @@
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [PostScript](#postscript)
+- [PowerShell](#powershell)
 - [Puppet](#puppet)
 - [Python](#python)
 - [R](#r)
@@ -652,7 +653,7 @@
 - [dthree/cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
 - [es-analysis/plato](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool
 - [jtblin/angular-chart.js](https://github.com/jtblin/angular-chart.js) - Reactive, responsive, beautiful charts for AngularJS using Chart.js: http://jtblin.github.io/angular-chart.js
-- [maxogden/art-of-node](https://github.com/maxogden/art-of-node) - :snowflake: a short introduction to node.js
+- [max-mapper/art-of-node](https://github.com/max-mapper/art-of-node) - :snowflake: a short introduction to node.js
 - [vincelwt/RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
 - [bradenericson/Uber-Angular-Module](https://github.com/bradenericson/Uber-Angular-Module) - An Angular Module used to work with the Uber API.
 - [trentm/json](https://github.com/trentm/json) - A "json" command for massaging JSON on your Unix command line.
@@ -918,6 +919,7 @@
 
 ## Others 
 
+- [netbiosX/Checklists](https://github.com/netbiosX/Checklists) - Red Teaming & Pentesting checklists for various engagements
 - [TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) - Curating the best DevSecOps resources and tooling.
 - [autometrics-dev/autometrics-shared](https://github.com/autometrics-dev/autometrics-shared) - Resources used by all of the autometrics implementations
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
@@ -1076,6 +1078,10 @@
 ## PostScript 
 
 - [foodfight/showz](https://github.com/foodfight/showz) - da showz be here
+
+## PowerShell 
+
+- [openhab/openhab-distro](https://github.com/openhab/openhab-distro) - The binary distribution of openHAB
 
 ## Puppet 
 
@@ -1352,6 +1358,7 @@
 
 ## R 
 
+- [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don't let friends make certain types of data visualization - What are they and why are they bad.
 - [rstudio/ggvis](https://github.com/rstudio/ggvis) - Interactive grammar of graphics for R
 - [jmstanto/data-science-r](https://github.com/jmstanto/data-science-r) - R code and documentation for "Introduction to Data Science" by Jeffrey Stanton
 - [r-lib/devtools](https://github.com/r-lib/devtools) - Tools to make an R developer's life easier
@@ -1730,6 +1737,7 @@
 
 ## Shell 
 
+- [bpm-rocks/bpm](https://github.com/bpm-rocks/bpm) - Bash Package Manager
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
 - [confluentinc/examples](https://github.com/confluentinc/examples) - Apache Kafka and Confluent Platform examples and demos
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
