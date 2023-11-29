@@ -519,6 +519,7 @@
 
 ## bash 
 
+- [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -2171,7 +2172,7 @@
 - [bpm-rocks/bpm](https://github.com/bpm-rocks/bpm) - Bash Package Manager
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [ttscoff/doing](https://github.com/ttscoff/doing) - 
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [carbonfact/lea](https://github.com/carbonfact/lea) - 🏃‍♀️ Minimalist alternative to dbt
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
@@ -3077,6 +3078,7 @@
 
 ## package-manager 
 
+- [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [buildinspace/peru](https://github.com/buildinspace/peru) - a generic package manager, for including other people's code in your projects
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
@@ -3593,6 +3595,7 @@
 
 ## shell 
 
+- [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [greymd/teip](https://github.com/greymd/teip) - Masking tape to help commands "do one thing well"
