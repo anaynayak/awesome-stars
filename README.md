@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -62,6 +63,10 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
+
+## Astro 
+
+- [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 
 ## C 
 
@@ -587,7 +592,7 @@
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [probot/stale](https://github.com/probot/stale) - A GitHub App built with Probot that closes abandoned Issues and Pull Requests after a period of inactivity.
 - [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
-- [joxji/hyperapp](https://github.com/joxji/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [ErikGartner/dTree](https://github.com/ErikGartner/dTree) - A library for visualizing data trees with multiple parents, such as family trees. Built on top of D3.
 - [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Chat Bot Samples for Google Chat.
@@ -1026,7 +1031,6 @@
 - [mairin/selinux-coloring-book](https://github.com/mairin/selinux-coloring-book) - A coloring book to help folks understand how SELinux works.
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [everpix/Everpix-Intelligence](https://github.com/everpix/Everpix-Intelligence) - Uncensored Everpix metrics, financials and business data for your perusing
-- [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -1661,7 +1665,7 @@
 - [autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs) - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry.
 - [ekzhang/percival](https://github.com/ekzhang/percival) - 📝 Web-based, reactive Datalog notebooks for data analysis and visualization
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
-- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
+- [jdx/rtx](https://github.com/jdx/rtx) - dev tools, env vars, task runner
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
@@ -1760,7 +1764,7 @@
 - [coinbase/assume-role](https://github.com/coinbase/assume-role) - DEPRECATED — assume-role: a CLI tool making it easy to assume IAM roles through an AWS Bastion account
 - [aws-samples/aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
 - [packsaddle/ruby-saddler](https://github.com/packsaddle/ruby-saddler) - 
-- [joxji/fisher](https://github.com/joxji/fisher) - A plugin manager for Fish
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
