@@ -135,6 +135,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -2102,6 +2103,15 @@
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [backup/backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
+
+## natural-language-processing 
+
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
+- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
+- [oxford-cs-deepnlp-2017/lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) - Oxford Deep NLP 2017 course
+- [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 
 ## neovim 
 
