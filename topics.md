@@ -2256,7 +2256,7 @@
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [reactor/BlockHound](https://github.com/reactor/BlockHound) - Java agent to detect blocking calls from non-blocking threads.
 - [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
-- [oap-project/gluten](https://github.com/oap-project/gluten) - Gluten: Plugin to Double SparkSQL's Performance
+- [apache/incubator-gluten](https://github.com/apache/incubator-gluten) - Gluten: Plugin to Double SparkSQL's Performance
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
