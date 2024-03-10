@@ -3347,7 +3347,7 @@
 - [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API.
 - [fabric-bolt/fabric-bolt](https://github.com/fabric-bolt/fabric-bolt) - Fabric deployments via a web interface
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [mnot/redbot](https://github.com/mnot/redbot) - REDbot is lint for HTTP resources.
 - [bloomreach/s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool
