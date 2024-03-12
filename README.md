@@ -956,7 +956,7 @@
 - [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs) - 📙 Awesome Data Catalogs and Observability Platforms.
-- [OpenMined/OM-Welcome-Package](https://github.com/OpenMined/OM-Welcome-Package) - Everything you need to know to contribute to OpenMined!
+- [iamtrask/OM-Welcome-Package](https://github.com/iamtrask/OM-Welcome-Package) - Everything you need to know to contribute to OpenMined!
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
