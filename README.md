@@ -1684,7 +1684,7 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [pamburus/hl](https://github.com/pamburus/hl) - A log viewer that translates JSON logs into human-readable representation.
-- [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A scalable realtime and continuous indexing engine for Unstructured Data to build Generative AI Applications
+- [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A scalable realtime and continuous indexing and structured extraction engine for Unstructured Data to build Generative AI Applications
 - [autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs) - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry.
 - [ekzhang/percival](https://github.com/ekzhang/percival) - 📝 Web-based, reactive Datalog notebooks for data analysis and visualization
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
