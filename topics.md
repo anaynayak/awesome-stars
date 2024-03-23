@@ -1634,6 +1634,7 @@
 
 ## javascript 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
@@ -3060,7 +3061,7 @@
 - [jeffreybreen/twitter-sentiment-analysis-tutorial-201107](https://github.com/jeffreybreen/twitter-sentiment-analysis-tutorial-201107) - Code to reproduce the simple sentiment analysis from my presentation
 - [anaynayak/sonia](https://github.com/anaynayak/sonia) - Awesome Office Dashboard
 - [mttkay/ignition](https://github.com/mttkay/ignition) - Kick-starts Android application development.
-- [hxgf/smoke.js](https://github.com/hxgf/smoke.js) - framework-agnostic styled alert system for javascript
+- [jyoungblood/smoke.js](https://github.com/jyoungblood/smoke.js) - framework-agnostic styled alert system for javascript
 - [playup/dew](https://github.com/playup/dew) - an environment management tool intended for use in multi-instance AWS application deployments.
 - [danielsdeleo/knife-plugins](https://github.com/danielsdeleo/knife-plugins) - my .chef/plugins/knife/
 - [anaynayak/chef-repo](https://github.com/anaynayak/chef-repo) - A blank Chef repository - use as a base to build your own
@@ -3937,6 +3938,7 @@
 ## typescript 
 
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
