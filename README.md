@@ -823,7 +823,7 @@
 - [shutterstock/rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs
 - [square/cube](https://github.com/square/cube) - Cube: A system for time series visualization.
 - [anaynayak/sonia](https://github.com/anaynayak/sonia) - Awesome Office Dashboard
-- [hxgf/smoke.js](https://github.com/hxgf/smoke.js) - framework-agnostic styled alert system for javascript
+- [jyoungblood/smoke.js](https://github.com/jyoungblood/smoke.js) - framework-agnostic styled alert system for javascript
 - [statusdashboard/statusdashboard](https://github.com/statusdashboard/statusdashboard) - A service status dashboard powered by Node.js
 - [bnoguchi/mongoose-auth](https://github.com/bnoguchi/mongoose-auth) - User authentication plugin for mongoose nodejs orm
 - [lorenwest/node-monitor](https://github.com/lorenwest/node-monitor) - Node.js application monitoring
