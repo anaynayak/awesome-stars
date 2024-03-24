@@ -1680,6 +1680,7 @@
 
 ## Rust 
 
+- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
