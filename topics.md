@@ -3167,6 +3167,7 @@
 
 ## package-manager 
 
+- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [buildinspace/peru](https://github.com/buildinspace/peru) - a generic package manager, for including other people's code in your projects
@@ -3260,6 +3261,7 @@
 
 ## python 
 
+- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [cnstlungu/portable-data-stack-dagster](https://github.com/cnstlungu/portable-data-stack-dagster) - A portable Datamart and Business Intelligence suite built with Docker, Dagster, dbt, DuckDB, PostgreSQL and Superset
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
