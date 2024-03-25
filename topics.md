@@ -2250,6 +2250,7 @@
 
 ## others 
 
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [datacontract/cli](https://github.com/datacontract/cli) - CLI to manage your datacontract.yaml files
 - [ramimac/aws-customer-security-incidents](https://github.com/ramimac/aws-customer-security-incidents) - A repository of breaches of AWS customers
 - [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp
