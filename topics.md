@@ -1072,6 +1072,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 
 ## education 
 
@@ -1213,6 +1214,7 @@
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [pepito2k/gitalytics](https://github.com/pepito2k/gitalytics) - Git analytics ruby gem
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -2028,6 +2030,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [jdan/cleaver](https://github.com/jdan/cleaver) - 30-second slideshows for hackers
 
@@ -2727,7 +2730,6 @@
 - [henrysher/spec4pypi](https://github.com/henrysher/spec4pypi) - rpm spec for packages on PyPI (forked from pyp2rpm)
 - [scoverage/scalac-scoverage-plugin](https://github.com/scoverage/scalac-scoverage-plugin) - Scoverage Scala Code Coverage Core Libs
 - [etsy/oculus](https://github.com/etsy/oculus) - The metric correlation component of Etsy's Kale system
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [learningequality/ka-lite](https://github.com/learningequality/ka-lite) - KA Lite: lightweight web server for serving core Khan Academy content (videos and exercises) without needing internet connectivity
 - [jasperproject/jasper-client](https://github.com/jasperproject/jasper-client) - Client code for Jasper voice computing platform
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
