@@ -848,7 +848,7 @@
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like
-- [LucaCanali/Miscellaneous](https://github.com/LucaCanali/Miscellaneous) - Includes notes on Apache Spark, Spark for Physics, Performance testing CPUs, TPCDS_PySpark, Jupyter notebook examples for Spark, Oracle and other DB systems.
+- [LucaCanali/Miscellaneous](https://github.com/LucaCanali/Miscellaneous) - Includes notes on using Apache Spark, Spark for Physics, a tool for running TPCDS on PySpark, a tool for performance testing CPUs, Jupyter notebook examples for Spark, Oracle and other DB systems.
 - [Brunel-Visualization/Brunel](https://github.com/Brunel-Visualization/Brunel) - Brunel Visualization
 - [whylabs/whylogs](https://github.com/whylabs/whylogs) - An open-source data logging library for machine learning models and data pipelines. 📚 Provides visibility into data quality & model performance over time. 🛡️ Supports privacy-preserving data collectio
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
@@ -1352,7 +1352,7 @@
 - [mnot/redbot](https://github.com/mnot/redbot) - REDbot is lint for HTTP resources.
 - [wonder-mice/mac-java-launcher](https://github.com/wonder-mice/mac-java-launcher) - Launcher for bundled java application on Mac OS
 - [bloomreach/s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool
-- [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
+- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
 - [Netflix-Skunkworks/gcviz](https://github.com/Netflix-Skunkworks/gcviz) - Garbage Collector Visualization Tool/Framework
 - [HubSpot/astack](https://github.com/HubSpot/astack) - Simple stacktrace analysis tool for the JVM
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
@@ -1681,6 +1681,7 @@
 
 ## Rust 
 
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
@@ -1878,6 +1879,7 @@
 
 ## TypeScript 
 
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - Open-source, browser-local data exploration using DuckDB-Wasm and PRQL
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
