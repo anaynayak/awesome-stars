@@ -221,7 +221,7 @@
 
 ## ai 
 
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into o
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
@@ -872,7 +872,7 @@
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [antvis/G6VP](https://github.com/antvis/G6VP) - G6VP is an online visual analysis tool for graphs and a low-code platform for building graph applications.
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
-- [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
+- [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is an experimental language for describing data relationships and transformations.
@@ -1411,7 +1411,6 @@
 
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) - Curating the best DevSecOps resources and tooling.
@@ -2168,6 +2167,7 @@
 
 ## nextjs 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -2316,7 +2316,7 @@
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
-- [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
+- [jetify-com/typeid](https://github.com/jetify-com/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
 - [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nl
 - [Qarik-Group/safe](https://github.com/Qarik-Group/safe) - A Vault CLI
 - [microsoft/sarif-tools](https://github.com/microsoft/sarif-tools) - A set of Python command line tools for working with SARIF files produced by code analysis tools
@@ -3288,7 +3288,7 @@
 
 ## python 
 
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into o
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
