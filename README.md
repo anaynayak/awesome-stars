@@ -442,7 +442,7 @@
 - [reactor/BlockHound](https://github.com/reactor/BlockHound) - Java agent to detect blocking calls from non-blocking threads.
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
 - [linkedin/coral](https://github.com/linkedin/coral) - Coral is a translation, analysis, and query rewrite engine for SQL and other relational languages.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
@@ -538,7 +538,7 @@
 ## JavaScript 
 
 - [moeiscool/Shinobi](https://github.com/moeiscool/Shinobi) - :peace_symbol: :palestinian_territories: Shinobi CE - The Free Open Source CCTV platform written in Node.JS (Camera Recorder - Security Surveillance Software - Restreamer
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application with a built-in LLM!
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI application, tool suite, and API for RAG & Agents for Docker & Desktop.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team) - Open-source temporary elevated access solution for AWS IAM Identity Center.
 - [mateodelnorte/meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?
