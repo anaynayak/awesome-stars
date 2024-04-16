@@ -225,7 +225,7 @@
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
 - [docker/sbom-cli-plugin](https://github.com/docker/sbom-cli-plugin) - Plugin for Docker CLI to support SBOM creation using Syft
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
-- [git-town/git-town](https://github.com/git-town/git-town) - Git workflow automation to keep branches in sync and reduce merge conflicts.
+- [git-town/git-town](https://github.com/git-town/git-town) - Additional Git commands for easier branch management and support for stacked changes
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
@@ -442,7 +442,7 @@
 - [reactor/BlockHound](https://github.com/reactor/BlockHound) - Java agent to detect blocking calls from non-blocking threads.
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
-- [apache/hertzbeat](https://github.com/apache/hertzbeat) - HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
 - [linkedin/coral](https://github.com/linkedin/coral) - Coral is a translation, analysis, and query rewrite engine for SQL and other relational languages.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
@@ -905,7 +905,7 @@
 
 ## Nim 
 
-- [crashappsec/chalk](https://github.com/crashappsec/chalk) - X-ray vision for the software development lifecycle.
+- [crashappsec/chalk](https://github.com/crashappsec/chalk) - Chalk allows you to follow code from development, through builds and into production.
 
 ## Nix 
 
