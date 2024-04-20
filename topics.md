@@ -88,6 +88,7 @@
 - [graphql](#graphql)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
+- [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [homebrew](#homebrew)
@@ -772,6 +773,7 @@
 
 ## data 
 
+- [bitol-io/open-data-contract-standard](https://github.com/bitol-io/open-data-contract-standard) - Home of the Open Data Contract Standard (ODCS).
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - Open-source, browser-local data exploration using DuckDB-Wasm and PRQL
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is an experimental language for describing data relationships and transformations.
@@ -1408,6 +1410,10 @@
 - [tldrrun/tools.tldr.run](https://github.com/tldrrun/tools.tldr.run) - A curated list of security tools for Hackers & Builders!
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [abhishekkr/eden_guide_to_hacking](https://github.com/abhishekkr/eden_guide_to_hacking) - its quick to read, broadway guide to HACKING ~ for anyone to have grasp of important concepts and skills which makes up the knowledge base of a hacker
+
+## hacking-tools 
+
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 
 ## hacktoberfest 
 
@@ -2282,7 +2288,7 @@
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
-- [datacontract/cli](https://github.com/datacontract/cli) - CLI to manage your datacontract.yaml files
+- [datacontract/datacontract-cli](https://github.com/datacontract/datacontract-cli) - CLI to manage your datacontract.yaml files
 - [ramimac/aws-customer-security-incidents](https://github.com/ramimac/aws-customer-security-incidents) - A repository of breaches of AWS customers
 - [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -3294,7 +3300,7 @@
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache DataFusion SQL Query Engine
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [cnstlungu/portable-data-stack-dagster](https://github.com/cnstlungu/portable-data-stack-dagster) - A portable Datamart and Business Intelligence suite built with Docker, Dagster, dbt, DuckDB, PostgreSQL and Superset
@@ -3577,7 +3583,7 @@
 
 ## rust 
 
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache DataFusion SQL Query Engine
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -3803,7 +3809,7 @@
 
 ## sql 
 
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache DataFusion SQL Query Engine
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - Open-source, browser-local data exploration using DuckDB-Wasm and PRQL
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
