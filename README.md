@@ -462,7 +462,7 @@
 - [joblift/gitlab-panorama](https://github.com/joblift/gitlab-panorama) - Visualize the latest pipeline-states for your repositories and branches
 - [ddd-by-examples/library](https://github.com/ddd-by-examples/library) - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
-- [emilybache/Racing-Car-Katas](https://github.com/emilybache/Racing-Car-Katas) - The starting code for several code katas on a racing car theme
+- [emilybache/Racing-Car-Katas](https://github.com/emilybache/Racing-Car-Katas) - Several code katas on a racing car theme
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [patric-r/jvmtop](https://github.com/patric-r/jvmtop) - Java monitoring for the command-line, profiler included
 - [IBM/microservices-traffic-management-using-istio](https://github.com/IBM/microservices-traffic-management-using-istio) - Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. In this code we show how we can enable your microservices with advanced traffic management, routing 
@@ -1685,6 +1685,7 @@
 
 ## Rust 
 
+- [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
