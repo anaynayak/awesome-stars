@@ -3665,6 +3665,7 @@
 
 ## security 
 
+- [OWASP/DevSecOpsGuideline](https://github.com/OWASP/DevSecOpsGuideline) - The OWASP DevSecOps Guideline can help us to embedding security as a part of the development pipeline.
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
