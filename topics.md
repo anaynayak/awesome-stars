@@ -1012,7 +1012,7 @@
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
-- [archerysec/archerysec](https://github.com/archerysec/archerysec) - Automate Your Application Security Orchestration And Correlation (ASOC) Using ArcherySec.
+- [archerysec/archerysec](https://github.com/archerysec/archerysec) - ASOC, ASPM, DevSecOps, Vulnerability Management Using ArcherySec.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [Soluto/tweek](https://github.com/Soluto/tweek) - Tweek - an open source feature manager
 - [monitoringartist/grafana-aws-cloudwatch-dashboards](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards) - :cloud: 40+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
@@ -3248,7 +3248,7 @@
 ## pentesting 
 
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
-- [archerysec/archerysec](https://github.com/archerysec/archerysec) - Automate Your Application Security Orchestration And Correlation (ASOC) Using ArcherySec.
+- [archerysec/archerysec](https://github.com/archerysec/archerysec) - ASOC, ASPM, DevSecOps, Vulnerability Management Using ArcherySec.
 
 ## php 
 
