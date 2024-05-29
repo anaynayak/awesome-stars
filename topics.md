@@ -2773,7 +2773,7 @@
 - [mariusae/hummingbird](https://github.com/mariusae/hummingbird) - no bullshit, minimalistic HTTP load generator
 - [igrigorik/autoperf](https://github.com/igrigorik/autoperf) - Ruby driver for httperf - automated load and performance testing
 - [epochjs/epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library.
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [mozilla/crontabber](https://github.com/mozilla/crontabber) - A cron job runner with self-healing and job dependencies.
 - [jpf/jsondns](https://github.com/jpf/jsondns) - DNS over HTTP
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
@@ -3152,7 +3152,6 @@
 - [mattray/spiceweasel](https://github.com/mattray/spiceweasel) - Generates Chef knife commands from a simple JSON or YAML file.
 - [chef/knife-windows](https://github.com/chef/knife-windows) - Plugin for Chef's knife tool for working with Windows nodes
 - [bnoguchi/mongoose-auth](https://github.com/bnoguchi/mongoose-auth) - User authentication plugin for mongoose nodejs orm
-- [daddz/sinatra-rspec-bundler-template](https://github.com/daddz/sinatra-rspec-bundler-template) - Modular Sinatra template with support for RSpec2, Bundler, SimpleCov
 - [yurigorokhov/indicator-vbox](https://github.com/yurigorokhov/indicator-vbox) - Gnome applet to manage virtual machines
 - [mathie/chef-homebrew](https://github.com/mathie/chef-homebrew) - *waves* This is not the cookbook you are looking for. Opscode are now maintaining it; see the home page below.
 - [devstructure/blueprint](https://github.com/devstructure/blueprint) - Reverse engineer server configuration
