@@ -1639,7 +1639,6 @@
 - [hedgehog/cuken](https://github.com/hedgehog/cuken) - Reusable Cucumber steps and API for post-convergence system integration descriptions
 - [mattray/spiceweasel](https://github.com/mattray/spiceweasel) - Generates Chef knife commands from a simple JSON or YAML file.
 - [chef/knife-windows](https://github.com/chef/knife-windows) - Plugin for Chef's knife tool for working with Windows nodes
-- [daddz/sinatra-rspec-bundler-template](https://github.com/daddz/sinatra-rspec-bundler-template) - Modular Sinatra template with support for RSpec2, Bundler, SimpleCov
 - [mathie/chef-homebrew](https://github.com/mathie/chef-homebrew) - *waves* This is not the cookbook you are looking for. Opscode are now maintaining it; see the home page below.
 - [oswaldlabs/chef-rundeck](https://github.com/oswaldlabs/chef-rundeck) - Integrates Chef with RunDeck, we are referring users to https://github.com/atheiman/better-chef-rundeck as this repository is inactive at this time.
 - [gvarela/osx-cookbooks-ext](https://github.com/gvarela/osx-cookbooks-ext) - Moved to http://github.com/modeset/osx-cookbooks-ext
@@ -1962,7 +1961,7 @@
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
 - [tessera-metrics/tessera](https://github.com/tessera-metrics/tessera) - A dashboard front-end for graphite.
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
