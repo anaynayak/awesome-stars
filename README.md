@@ -1211,7 +1211,7 @@
 - [proplot-dev/proplot](https://github.com/proplot-dev/proplot) - 🎨 A succinct matplotlib wrapper for making beautiful, publication-quality graphics
 - [nchammas/flintrock](https://github.com/nchammas/flintrock) - A command-line tool for launching Apache Spark clusters.
 - [rsyi/whale](https://github.com/rsyi/whale) - 🐳 The stupidly simple CLI workspace for your data warehouse.
-- [capitalone/datacompy](https://github.com/capitalone/datacompy) - Pandas and Spark DataFrame comparison for humans and more!
+- [capitalone/datacompy](https://github.com/capitalone/datacompy) - Pandas, Polars, and Spark DataFrame comparison for humans and more!
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [snorkel-team/snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision
 - [lrvick/youtube-dl](https://github.com/lrvick/youtube-dl) - RIAA: Please go die in a fire.
@@ -1904,7 +1904,7 @@
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
