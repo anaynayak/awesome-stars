@@ -137,7 +137,7 @@
 - [rosario/kasper](https://github.com/rosario/kasper) - Ghost's default theme (Casper v1.0) on Jekyll
 - [alindeman/upgradingtorails4](https://github.com/alindeman/upgradingtorails4) - Upgrading to Rails 4 e-book
 - [lucaslew/whitespace](https://github.com/lucaslew/whitespace) - Minimal white theme for Octopress
-- [d0nd3r3k/PiR.tv](https://github.com/d0nd3r3k/PiR.tv) - Pirate TV on the the Raspberry PI
+- [d0nd3r3k/PiR.tv](https://github.com/d0nd3r3k/PiR.tv) - A Raspberry PI  smart TV and remote controller built with Open Source tools.
 - [fians/marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
 - [mdo/wtf-html-css](https://github.com/mdo/wtf-html-css) - Common reasons your HTML and CSS may be fucked.
@@ -1121,6 +1121,7 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [cnstlungu/portable-data-stack-dagster](https://github.com/cnstlungu/portable-data-stack-dagster) - A portable Datamart and Business Intelligence suite built with Docker, Dagster, dbt, DuckDB, PostgreSQL and Superset
@@ -1890,7 +1891,6 @@
 ## TypeScript 
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - The modern replacement for Jupyter Notebooks
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
