@@ -137,7 +137,6 @@
 - [rosario/kasper](https://github.com/rosario/kasper) - Ghost's default theme (Casper v1.0) on Jekyll
 - [alindeman/upgradingtorails4](https://github.com/alindeman/upgradingtorails4) - Upgrading to Rails 4 e-book
 - [lucaslew/whitespace](https://github.com/lucaslew/whitespace) - Minimal white theme for Octopress
-- [d0nd3r3k/PiR.tv](https://github.com/d0nd3r3k/PiR.tv) - A Raspberry PI  smart TV and remote controller built with Open Source tools.
 - [fians/marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
 - [mdo/wtf-html-css](https://github.com/mdo/wtf-html-css) - Common reasons your HTML and CSS may be fucked.
@@ -698,6 +697,7 @@
 - [ryanflorence/react-training](https://github.com/ryanflorence/react-training) - Mini React Training Course
 - [leeluolee/puer](https://github.com/leeluolee/puer) - more than a live-reload server, built for efficient front-end development
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
+- [d0nd3r3k/PiR.tv](https://github.com/d0nd3r3k/PiR.tv) - A Raspberry PI  smart TV and remote controller built with Open Source tools.
 - [zeman/perfmap](https://github.com/zeman/perfmap) - Front-end performance heatmap bookmarklet.
 - [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
