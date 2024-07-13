@@ -1113,7 +1113,7 @@
 
 ## Python 
 
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - production-ready RAG engine with a sh*t ton of features.
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SOTA RAG engine with automatic knowledge graph construction
 - [jwills/buenavista](https://github.com/jwills/buenavista) - A Postgres Proxy Server in Python
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [OWASP/DevSecOpsGuideline](https://github.com/OWASP/DevSecOpsGuideline) - The OWASP DevSecOps Guideline can help us to embedding security as a part of the development pipeline.
