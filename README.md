@@ -198,6 +198,7 @@
 
 ## Go 
 
+- [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
