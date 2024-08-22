@@ -863,6 +863,7 @@
 - [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [liangruibupt/aws-is-how](https://github.com/liangruibupt/aws-is-how) - Know How Guide and Hands on Guide for AWS
+- [awslabs/python-deequ](https://github.com/awslabs/python-deequ) - Python API for Deequ
 - [gdsbook/book](https://github.com/gdsbook/book) - This book serves as an introduction to a whole new way of thinking systematically about geographic data, using geographical analysis and computation to unlock new insights hidden within data.
 - [great-expectations/great_expectations_action](https://github.com/great-expectations/great_expectations_action) - A GitHub Action that makes it easy to use Great Expectations to validate your data pipelines in your CI workflows.
 - [pysal/mapclassify](https://github.com/pysal/mapclassify) - Classification schemes for choropleth mapping.
@@ -1215,7 +1216,6 @@
 - [datapane/datapane](https://github.com/datapane/datapane) - Build and share data reports in 100% Python
 - [nccgroup/PMapper](https://github.com/nccgroup/PMapper) - A tool for quickly evaluating IAM permissions in AWS.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
-- [awslabs/python-deequ](https://github.com/awslabs/python-deequ) - Python API for Deequ
 - [proplot-dev/proplot](https://github.com/proplot-dev/proplot) - 🎨 A succinct matplotlib wrapper for making beautiful, publication-quality graphics
 - [nchammas/flintrock](https://github.com/nchammas/flintrock) - A command-line tool for launching Apache Spark clusters.
 - [rsyi/whale](https://github.com/rsyi/whale) - 🐳 The stupidly simple CLI workspace for your data warehouse.
