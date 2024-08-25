@@ -2004,6 +2004,7 @@
 
 ## low-code 
 
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [antvis/G6VP](https://github.com/antvis/G6VP) - G6VP is an online visual analysis tool for graphs and a low-code platform for building graph applications.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
