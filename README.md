@@ -490,7 +490,7 @@
 - [lkoskela/maven-build-utils](https://github.com/lkoskela/maven-build-utils) - Maven extensions for the build-tweaking programmer
 - [bdelbosc/jmxstat](https://github.com/bdelbosc/jmxstat) - Poll JMX attributes from the command line
 - [timgifford/maven-buildtime-extension](https://github.com/timgifford/maven-buildtime-extension) - A Maven build time extension that displays the duration for each goal that is run during your build
-- [takari/maven-profiler](https://github.com/takari/maven-profiler) - 
+- [takari/maven-profiler](https://github.com/takari/maven-profiler) - Simple profiler for your Maven builds.
 - [lburgazzoli/lb-axon](https://github.com/lburgazzoli/lb-axon) - 
 - [INRIA/spoon](https://github.com/INRIA/spoon) - Spoon is a metaprogramming library to analyze and transform Java source code. :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful an
 - [kametic/nuun-framework](https://github.com/kametic/nuun-framework) - Nuun.io (was NuunFramework) is a set of library that helps you create your java enterprise stack.
