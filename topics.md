@@ -2171,6 +2171,7 @@
 
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [refactorfirst/RefactorFirst](https://github.com/refactorfirst/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes in Java codebases you should refactor first.
+- [takari/maven-profiler](https://github.com/takari/maven-profiler) - Simple profiler for your Maven builds.
 
 ## microsoft 
 
@@ -2732,7 +2733,6 @@
 - [mantl/mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [timgifford/maven-buildtime-extension](https://github.com/timgifford/maven-buildtime-extension) - A Maven build time extension that displays the duration for each goal that is run during your build
-- [takari/maven-profiler](https://github.com/takari/maven-profiler) - 
 - [spark-mooc/mooc-setup](https://github.com/spark-mooc/mooc-setup) - Information for setting up for the BerkeleyX Spark Intro MOOC, and lab assignments for the course
 - [lburgazzoli/lb-axon](https://github.com/lburgazzoli/lb-axon) - 
 - [allegro/tipboard](https://github.com/allegro/tipboard) - Tipboard - in-house, tasty, local dashboarding system
