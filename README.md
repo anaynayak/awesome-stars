@@ -1696,7 +1696,7 @@
 
 ## Rust 
 
-- [theseus-rs/rsql](https://github.com/theseus-rs/rsql) - Command line interface for DuckDB, LibSQL, MariaDB, MySQL, PostgreSQL, Snowflake, SQLite3 and SQL Server
+- [theseus-rs/rsql](https://github.com/theseus-rs/rsql) - Command line interface for DuckDB, LibSQL, MariaDB, MySQL, PostgreSQL, Redshift, Snowflake, SQLite3 and SQL Server
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data
