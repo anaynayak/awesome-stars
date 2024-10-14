@@ -236,6 +236,7 @@
 
 ## ai 
 
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
@@ -631,6 +632,7 @@
 
 ## chatgpt 
 
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
@@ -2024,6 +2026,7 @@
 
 ## llm 
 
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
@@ -3460,6 +3463,7 @@
 
 ## python 
 
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
