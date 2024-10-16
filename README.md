@@ -1275,7 +1275,7 @@
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [cloudtools/troposphere](https://github.com/cloudtools/troposphere) - troposphere - Python library to create AWS CloudFormation descriptions
 - [nameko/nameko](https://github.com/nameko/nameko) - Python framework for building microservices
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
 - [RasaHQ/rasa_core](https://github.com/RasaHQ/rasa_core) - Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [gramps-project/gramps](https://github.com/gramps-project/gramps) - Source code for Gramps Genealogical program
@@ -1522,7 +1522,6 @@
 - [square/simplerrd](https://github.com/square/simplerrd) - SimpleRRD provides a simple Ruby interface for creating graphs with RRD
 - [fgrehm/vagrant-global-status](https://github.com/fgrehm/vagrant-global-status) - [DEPRECATED] A proof of concept Vagrant plugin that keeps track of vagrant machines and provides a command for listing the status of all known machines.
 - [grahambrooks/zero-down](https://github.com/grahambrooks/zero-down) - Example of how to migrate a database with zero downtime of the dependant application during an application deployment with a breaking schema change.
-- [heroku/umpire](https://github.com/heroku/umpire) - HTTP metrics monitoring endpoint
 - [bhb/rack-perftools_profiler](https://github.com/bhb/rack-perftools_profiler) - Middleware for profiling Rack-compatible apps using perftools.rb
 - [nixme/pry-debugger](https://github.com/nixme/pry-debugger) - Pry navigation commands via debugger (formerly ruby-debug)
 - [n8/tracer_bullets](https://github.com/n8/tracer_bullets) - A simple way to zone in on the slow parts of your Rails app.
