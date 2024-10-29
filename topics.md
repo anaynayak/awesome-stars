@@ -24,6 +24,7 @@
 - [babel](#babel)
 - [backend](#backend)
 - [bash](#bash)
+- [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [bugbounty](#bugbounty)
@@ -238,8 +239,9 @@
 
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth local and web research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
@@ -369,8 +371,8 @@
 
 ## automation 
 
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth local and web research on any given topic
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
@@ -595,6 +597,10 @@
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 
+## blockchain 
+
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
+
 ## bootstrap 
 
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
@@ -603,7 +609,7 @@
 ## bot 
 
 - [RasaHQ/rasa_core](https://github.com/RasaHQ/rasa_core) - Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations
-- [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Chat Bot Samples for Google Chat.
+- [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
 - [packsaddle/ruby-saddler](https://github.com/packsaddle/ruby-saddler) - 
 
 ## bugbounty 
@@ -825,7 +831,7 @@
 
 ## cybersecurity 
 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
@@ -1494,14 +1500,12 @@
 ## hacktoberfest 
 
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth local and web research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [JakobTheDev/awesome-devsecops](https://github.com/JakobTheDev/awesome-devsecops) - Curating the best DevSecOps resources and tooling.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
@@ -1709,7 +1713,7 @@
 ## java 
 
 - [G-Research/spark-extension](https://github.com/G-Research/spark-extension) - A library that provides useful extensions to Apache Spark and PySpark.
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java and Scala. 2-3x faster than Gradle and 5-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintai
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java and Scala. 2-4x faster than Gradle and 5-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintai
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
 - [openhab/openhab-distro](https://github.com/openhab/openhab-distro) - The binary distribution of openHAB
 - [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
@@ -1728,7 +1732,7 @@
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
-- [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Chat Bot Samples for Google Chat.
+- [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
 - [speedment/speedment](https://github.com/speedment/speedment) - Speedment is a Stream ORM Java Toolkit and Runtime
 - [approvals/ApprovalTests.Java](https://github.com/approvals/ApprovalTests.Java) - ApprovalTest verification library for Java
 - [microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo) - Deployment scripts & config for Sock Shop
@@ -1791,7 +1795,7 @@
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
 - [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
-- [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Chat Bot Samples for Google Chat.
+- [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
 - [mapbox/flamebearer](https://github.com/mapbox/flamebearer) - Blazing fast flame graph tool for V8 and Node 🔥
 - [single-spa/single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends
 - [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
@@ -2037,7 +2041,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
@@ -2056,7 +2060,7 @@
 
 ## low-code 
 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [antvis/G6VP](https://github.com/antvis/G6VP) - G6VP is an online visual analysis tool for graphs and a low-code platform for building graph applications.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -2227,7 +2231,7 @@
 ## monitoring 
 
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [autometrics-dev/autometrics-shared](https://github.com/autometrics-dev/autometrics-shared) - Resources used by all of the autometrics implementations
@@ -2321,7 +2325,7 @@
 ## nextjs 
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
@@ -2338,7 +2342,7 @@
 
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-- [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Chat Bot Samples for Google Chat.
+- [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
 - [mapbox/flamebearer](https://github.com/mapbox/flamebearer) - Blazing fast flame graph tool for V8 and Node 🔥
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [geekcell/docker-compose-nodejs-examples](https://github.com/geekcell/docker-compose-nodejs-examples) - Finally some real world examples on getting started with Docker Compose and Nodejs.
@@ -2363,7 +2367,7 @@
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [hbi99/defiant.js](https://github.com/hbi99/defiant.js) - http://defiantjs.com
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
-- [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Chat Bot Samples for Google Chat.
+- [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
@@ -2424,7 +2428,7 @@
 
 ## openai 
 
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth local and web research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
@@ -2449,7 +2453,6 @@
 ## others 
 
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
@@ -2483,7 +2486,7 @@
 - [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [reactor/BlockHound](https://github.com/reactor/BlockHound) - Java agent to detect blocking calls from non-blocking threads.
-- [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
+- [facebookincubator/velox](https://github.com/facebookincubator/velox) - A composable and fully extensible C++ execution engine library for data management systems.
 - [apache/incubator-gluten](https://github.com/apache/incubator-gluten) - Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services
@@ -3468,7 +3471,7 @@
 
 - [G-Research/spark-extension](https://github.com/G-Research/spark-extension) - A library that provides useful extensions to Apache Spark and PySpark.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth local and web research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
@@ -3557,7 +3560,7 @@
 - [cloudtools/troposphere](https://github.com/cloudtools/troposphere) - troposphere - Python library to create AWS CloudFormation descriptions
 - [nameko/nameko](https://github.com/nameko/nameko) - Python framework for building microservices
 - [gramps-project/gramps](https://github.com/gramps-project/gramps) - Source code for Gramps Genealogical program
-- [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Chat Bot Samples for Google Chat.
+- [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -3820,7 +3823,7 @@
 ## scala 
 
 - [G-Research/spark-extension](https://github.com/G-Research/spark-extension) - A library that provides useful extensions to Apache Spark and PySpark.
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java and Scala. 2-3x faster than Gradle and 5-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintai
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java and Scala. 2-4x faster than Gradle and 5-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintai
 - [optics-dev/Monocle](https://github.com/optics-dev/Monocle) - Optics library for Scala
 - [AbsaOSS/spline](https://github.com/AbsaOSS/spline) - Data Lineage Tracking And Visualization Solution
 - [wartremover/wartremover](https://github.com/wartremover/wartremover) - Flexible Scala code linting tool
@@ -3857,7 +3860,7 @@
 
 - [OWASP/DevSecOpsGuideline](https://github.com/OWASP/DevSecOpsGuideline) - The OWASP DevSecOps Guideline can help us to embedding security as a part of the development pipeline.
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [openclarity/openclarity](https://github.com/openclarity/openclarity) - OpenClarity is an open source tool built to enhance security and observability of cloud native applications and infrastructure
 - [6mile/DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook) - This is a step-by-step guide to implementing a DevSecOps program for any size organization
