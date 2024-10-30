@@ -1848,6 +1848,7 @@
 - [casperjs/casperjs](https://github.com/casperjs/casperjs) - CasperJS is no longer actively maintained. Navigation scripting and testing utility for PhantomJS and SlimerJS
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [shutterstock/rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs
+- [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
 ## jekyll 
@@ -1911,6 +1912,7 @@
 
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [jooby-project/jooby](https://github.com/jooby-project/jooby) - The modular web framework for Java and Kotlin
+- [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 
 ## kubernetes 
 
@@ -2927,7 +2929,6 @@
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [mozilla/crontabber](https://github.com/mozilla/crontabber) - A cron job runner with self-healing and job dependencies.
 - [jpf/jsondns](https://github.com/jpf/jsondns) - DNS over HTTP
-- [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
 - [mairin/selinux-coloring-book](https://github.com/mairin/selinux-coloring-book) - A coloring book to help folks understand how SELinux works.
 - [bltavares/vagrant-baseline](https://github.com/bltavares/vagrant-baseline) - Dev sandbox with batteries included
@@ -4227,6 +4228,7 @@
 - [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 
 ## ubuntu 
 
