@@ -895,6 +895,7 @@
 
 ## Makefile 
 
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
 - [redhat-cop/automation-good-practices](https://github.com/redhat-cop/automation-good-practices) - Recommended practices for all elements of automation using Ansible, starting with collections and roles, continuing with playbooks, inventories and plug-ins... These good practices are planned to be u
 - [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
@@ -948,6 +949,7 @@
 
 ## Others 
 
+- [SylphAI-Inc/LLM-engineer-handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook) - A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications.
 - [armstrongl/awesome-writing](https://github.com/armstrongl/awesome-writing) - 🕶 An awesome list of writing resources!
 - [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 - [ramimac/aws-customer-security-incidents](https://github.com/ramimac/aws-customer-security-incidents) - A repository of breaches of AWS customers
@@ -1130,7 +1132,7 @@
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
 - [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - Containerized, state of the art Retrieval-Augmented Generation (RAG) with a RESTful API
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - Containerized, state of the art Retrieval-Augmented Generation (RAG) system with a RESTful API
 - [jwills/buenavista](https://github.com/jwills/buenavista) - A Postgres Proxy Server in Python
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - QodoAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [OWASP/DevSecOpsGuideline](https://github.com/OWASP/DevSecOpsGuideline) - The OWASP DevSecOps Guideline can help us to embedding security as a part of the development pipeline.
@@ -1699,7 +1701,7 @@
 
 ## Rust 
 
-- [theseus-rs/rsql](https://github.com/theseus-rs/rsql) - Command line interface for DuckDB, LibSQL, MariaDB, MySQL, PostgreSQL, Redshift, Snowflake, SQLite3 and SQL Server
+- [theseus-rs/rsql](https://github.com/theseus-rs/rsql) - Command line interface for CockroachDB, DuckDB, LibSQL, MariaDB, MySQL, PostgreSQL, Redshift, Snowflake, SQLite3 and SQL Server
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data
@@ -1913,7 +1915,7 @@
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
