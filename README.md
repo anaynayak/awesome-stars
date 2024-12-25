@@ -199,6 +199,7 @@
 
 ## Go 
 
+- [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - Graphing SBOM's Fast.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
@@ -273,7 +274,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [cashapp/hermit](https://github.com/cashapp/hermit) - 🐚 Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-- [ory/kratos](https://github.com/ory/kratos) - The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor A
+- [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -1127,6 +1128,7 @@
 
 ## Python 
 
+- [comet-ml/opik](https://github.com/comet-ml/opik) - From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Supercharge Your LLM Application Evaluations 🚀
 - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
@@ -1270,7 +1272,7 @@
 - [ashwin711/proximityhash](https://github.com/ashwin711/proximityhash) - Geohashes in proximity
 - [ashwin711/georaptor](https://github.com/ashwin711/georaptor) - Python Geohash Compression Tool
 - [Bonsanto/polygon-geohasher](https://github.com/Bonsanto/polygon-geohasher) - Converts a polygon into a set of geohashes with arbitrary precision.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source AI/ML Platform
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
@@ -1720,7 +1722,7 @@
 ## Rust 
 
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
-- [theseus-rs/rsql](https://github.com/theseus-rs/rsql) - Command line interface for CockroachDB, DuckDB, LibSQL, MariaDB, MySQL, PostgreSQL, Redshift, Snowflake, SQLite3 and SQL Server
+- [theseus-rs/rsql](https://github.com/theseus-rs/rsql) - Command line SQL interface for relational databases and common data file formats
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data
@@ -1732,7 +1734,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that translates JSON or logfmt logs into a pretty human-readable format.
+- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that translates JSON logs or logfmt logs into a pretty human-readable format.
 - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications
 - [autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs) - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry.
 - [ekzhang/percival](https://github.com/ekzhang/percival) - 📝 Web-based, reactive Datalog notebooks for data analysis and visualization
@@ -2000,7 +2002,7 @@
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [emilybache/Tennis-Refactoring-Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) - This is a Refactoring Kata based on the rules of Tennis
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
-- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
