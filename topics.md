@@ -324,7 +324,7 @@
 
 ## android 
 
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java, Scala and Kotlin. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant,
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build p
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [btkelly/gnag](https://github.com/btkelly/gnag) - A Gradle plugin that helps facilitate GitHub PR checking and automatic commenting of violations.
@@ -1760,7 +1760,7 @@
 ## java 
 
 - [G-Research/spark-extension](https://github.com/G-Research/spark-extension) - A library that provides useful extensions to Apache Spark and PySpark.
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java, Scala and Kotlin. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant,
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build p
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
 - [openhab/openhab-distro](https://github.com/openhab/openhab-distro) - The binary distribution of openHAB
 - [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
@@ -1964,7 +1964,7 @@
 
 ## kotlin 
 
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java, Scala and Kotlin. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant,
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build p
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [jooby-project/jooby](https://github.com/jooby-project/jooby) - The modular web framework for Java and Kotlin
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
@@ -3579,6 +3579,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build p
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust
 - [dlt-hub/dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
@@ -3938,7 +3939,7 @@
 ## scala 
 
 - [G-Research/spark-extension](https://github.com/G-Research/spark-extension) - A library that provides useful extensions to Apache Spark and PySpark.
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java, Scala and Kotlin. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant,
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build p
 - [optics-dev/Monocle](https://github.com/optics-dev/Monocle) - Optics library for Scala
 - [AbsaOSS/spline](https://github.com/AbsaOSS/spline) - Data Lineage Tracking And Visualization Solution
 - [wartremover/wartremover](https://github.com/wartremover/wartremover) - Flexible Scala code linting tool
@@ -4346,6 +4347,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build p
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
