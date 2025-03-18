@@ -392,7 +392,6 @@
 - [re-data/re-data](https://github.com/re-data/re-data) - re_data - fix data issues before your users & CEO would discover them 😊
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [OWASP/ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [elementary-data/elementary](https://github.com/elementary-data/elementary) - The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
@@ -436,7 +435,6 @@
 - [square/spoon](https://github.com/square/spoon) - Distributing instrumentation tests to all your Androids.
 - [scotthmurray/d3-book](https://github.com/scotthmurray/d3-book) - Code examples for “Interactive Data Visualization for the Web”
 - [exploringdata/exploringdata.github.com](https://github.com/exploringdata/exploringdata.github.com) - Generated Exploring Data github pages. See https://github.com/exploringdata/website for source files, issues and pull requests.
-- [travis-ci/travis-cookbooks](https://github.com/travis-ci/travis-cookbooks) - Chef cookbook monolithic repo :book: :bomb:
 - [twitter/scala_school](https://github.com/twitter/scala_school) - Lessons in the Fundamentals of Scala
 - [lojjic/PIE](https://github.com/lojjic/PIE) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties
 - [mbabineau/cloudviz](https://github.com/mbabineau/cloudviz) - Makes nice graphs of Amazon CloudWatch data using Google Chart Tools
@@ -563,6 +561,7 @@
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
@@ -1143,7 +1142,7 @@
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
 - [echohive42/AI-reads-books-page-by-page](https://github.com/echohive42/AI-reads-books-page-by-page) - AI reads books: Page-by-Page PDF Knowledge Extractor & Summarizer. script performs an intelligent page-by-page analysis of PDF books, methodically extracting knowledge points and generating progressiv
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
@@ -1174,7 +1173,7 @@
 - [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models
 - [iterative/datachain](https://github.com/iterative/datachain) - ETL, Analytics, Versioning for Unstructured Data
-- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
@@ -1205,7 +1204,7 @@
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [carbonfact/lea](https://github.com/carbonfact/lea) - 🏃‍♀️ Minimalist alternative to dbt
+- [carbonfact/lea](https://github.com/carbonfact/lea) - 🏃‍♀️ Minimalist SQL orchestrator
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [erikbern/ann-benchmarks](https://github.com/erikbern/ann-benchmarks) - Benchmarks of approximate nearest neighbor libraries in Python
 - [PyAr/fades](https://github.com/PyAr/fades) - fades is a system that automatically handles the virtualenvs in the cases normally found when writing scripts and simple programs, and even helps to administer big projects.
@@ -1505,7 +1504,7 @@
 - [ryotarai/infrataster](https://github.com/ryotarai/infrataster) - Infrastructure Behavior Testing Framework
 - [zestia/hubrelease](https://github.com/zestia/hubrelease) - Generate release notes from closed issues and merged pull requests
 - [peek/peek](https://github.com/peek/peek) - Take a peek into your Rails applications.
-- [hanami/hanami](https://github.com/hanami/hanami) - The web, with simplicity.
+- [hanami/hanami](https://github.com/hanami/hanami) - A flexible framework for maintainable Ruby apps
 - [pritibiyani/QABootcamp](https://github.com/pritibiyani/QABootcamp) - 
 - [cheezy/page-object](https://github.com/cheezy/page-object) - Gem to implement PageObject pattern in watir-webdriver and selenium-webdriver
 - [snehaso/video-rental-refactoring](https://github.com/snehaso/video-rental-refactoring) - 
@@ -1693,6 +1692,7 @@
 - [playup/dew](https://github.com/playup/dew) - an environment management tool intended for use in multi-instance AWS application deployments.
 - [brunofacca/active-record-query-trace](https://github.com/brunofacca/active-record-query-trace) - Rails plugin that logs/displays a backtrace of all SQL queries executed by Active Record
 - [danielsdeleo/knife-plugins](https://github.com/danielsdeleo/knife-plugins) - my .chef/plugins/knife/
+- [travis-ci/travis-cookbooks](https://github.com/travis-ci/travis-cookbooks) - Chef cookbook monolithic repo :book: :bomb:
 - [t9md/vagrant-snap](https://github.com/t9md/vagrant-snap) - snapshoft management plugin for vagrant
 - [xdissent/chef-hatch-repo](https://github.com/xdissent/chef-hatch-repo) - Hatch - Easily create a live, self-managed Chef server
 - [iwasrobbed/Rails3-S3-Uploader-Plupload](https://github.com/iwasrobbed/Rails3-S3-Uploader-Plupload) - Rails 3 direct upload to Amazon S3 using Plupload
