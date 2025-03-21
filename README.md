@@ -926,7 +926,7 @@
 
 ## Nix 
 
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 
 ## Nunjucks 
 
@@ -998,6 +998,7 @@
 - [lorin/resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
 - [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 💀 Homebrew Bundle (deprecated)
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [nathanpeck/awesome-ecs](https://github.com/nathanpeck/awesome-ecs) - A curated list of awesome ECS guides, development tools, and resources
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
@@ -1185,7 +1186,7 @@
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
 - [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The most advanced AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [jwills/buenavista](https://github.com/jwills/buenavista) - A Postgres Proxy Server in Python
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [OWASP/DevSecOpsGuideline](https://github.com/OWASP/DevSecOpsGuideline) - The OWASP DevSecOps Guideline can help us to embedding security as a part of the development pipeline.
@@ -1483,7 +1484,6 @@
 - [quadziginc/quadzig](https://github.com/quadziginc/quadzig) - 
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [mitre/aws-foundations-cis-baseline](https://github.com/mitre/aws-foundations-cis-baseline) - InSpec profile to validate your VPC to the standards of the CIS Amazon Web Services Foundations Benchmark
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [y13i/sgviz](https://github.com/y13i/sgviz) - Visualize AWS VPC security groups.
 - [fastlane/ci](https://github.com/fastlane/ci) - Open source, self hosted, mobile optimized CI powered by fastlane
 - [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask
