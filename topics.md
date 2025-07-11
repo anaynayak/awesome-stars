@@ -351,7 +351,7 @@
 
 ## android 
 
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 3-6x faster than Maven or Gradle for common workflows, Mill aims to make your project’s build process performa
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [btkelly/gnag](https://github.com/btkelly/gnag) - A Gradle plugin that helps facilitate GitHub PR checking and automatic commenting of violations.
@@ -1832,7 +1832,7 @@
 ## java 
 
 - [G-Research/spark-extension](https://github.com/G-Research/spark-extension) - A library that provides useful extensions to Apache Spark and PySpark.
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 3-6x faster than Maven or Gradle for common workflows, Mill aims to make your project’s build process performa
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
 - [openhab/openhab-distro](https://github.com/openhab/openhab-distro) - The binary distribution of openHAB
 - [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
@@ -2039,7 +2039,7 @@
 
 ## kotlin 
 
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 3-6x faster than Maven or Gradle for common workflows, Mill aims to make your project’s build process performa
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [jooby-project/jooby](https://github.com/jooby-project/jooby) - The modular web framework for Java and Kotlin
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
@@ -2172,7 +2172,7 @@
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - The open-source backbone for LLM agents that stay under control as you scale their complexity.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers.
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -2644,7 +2644,7 @@
 
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - The open-source backbone for LLM agents that stay under control as you scale their complexity.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
 - [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
@@ -3752,7 +3752,7 @@
 - [blablatdinov/ondivi](https://github.com/blablatdinov/ondivi) - Ondivi (Only diff violations) is a Python script filtering coding violations, identified by static analysis, only for changed lines in a Git repo.
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
 - [fmind/mlops-python-package](https://github.com/fmind/mlops-python-package) - Kickstart your MLOps initiative with a flexible, robust, and productive Python package.
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - The open-source backbone for LLM agents that stay under control as you scale their complexity.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows
@@ -3774,7 +3774,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 3-6x faster than Maven or Gradle for common workflows, Mill aims to make your project’s build process performa
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
 - [dlt-hub/dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
@@ -4141,7 +4141,7 @@
 
 - [yahoo/CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
 - [G-Research/spark-extension](https://github.com/G-Research/spark-extension) - A library that provides useful extensions to Apache Spark and PySpark.
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 3-6x faster than Maven or Gradle for common workflows, Mill aims to make your project’s build process performa
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
 - [optics-dev/Monocle](https://github.com/optics-dev/Monocle) - Optics library for Scala
 - [AbsaOSS/spline](https://github.com/AbsaOSS/spline) - Data Lineage Tracking And Visualization Solution
 - [wartremover/wartremover](https://github.com/wartremover/wartremover) - Flexible Scala code linting tool
@@ -4574,7 +4574,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 3-6x faster than Maven or Gradle for common workflows, Mill aims to make your project’s build process performa
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
