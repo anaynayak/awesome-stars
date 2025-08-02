@@ -357,7 +357,7 @@
 
 ## android 
 
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [btkelly/gnag](https://github.com/btkelly/gnag) - A Gradle plugin that helps facilitate GitHub PR checking and automatic commenting of violations.
@@ -1375,6 +1375,7 @@
 
 ## electron 
 
+- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
@@ -1512,6 +1513,7 @@
 
 ## github 
 
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
@@ -1910,7 +1912,7 @@
 ## java 
 
 - [G-Research/spark-extension](https://github.com/G-Research/spark-extension) - A library that provides useful extensions to Apache Spark and PySpark.
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
 - [openhab/openhab-distro](https://github.com/openhab/openhab-distro) - The binary distribution of openHAB
 - [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
@@ -2117,7 +2119,7 @@
 
 ## kotlin 
 
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [jooby-project/jooby](https://github.com/jooby-project/jooby) - The modular web framework for Java and Kotlin
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
@@ -2593,6 +2595,7 @@
 
 ## nextjs 
 
+- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
@@ -2696,6 +2699,7 @@
 
 ## open-source 
 
+- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -2763,6 +2767,7 @@
 
 ## others 
 
+- [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
@@ -4222,7 +4227,7 @@
 
 - [yahoo/CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
 - [G-Research/spark-extension](https://github.com/G-Research/spark-extension) - A library that provides useful extensions to Apache Spark and PySpark.
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
 - [optics-dev/Monocle](https://github.com/optics-dev/Monocle) - Optics library for Scala
 - [AbsaOSS/spline](https://github.com/AbsaOSS/spline) - Data Lineage Tracking And Visualization Solution
 - [wartremover/wartremover](https://github.com/wartremover/wartremover) - Flexible Scala code linting tool
@@ -4528,6 +4533,7 @@
 
 ## tailwindcss 
 
+- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
