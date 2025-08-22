@@ -471,7 +471,7 @@
 - [reactor/BlockHound](https://github.com/reactor/BlockHound) - Java agent to detect blocking calls from non-blocking threads.
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
-- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB
 - [confluentinc/examples](https://github.com/confluentinc/examples) - Apache Kafka, Apache Flink and Confluent Platform examples and demos
 - [linkedin/coral](https://github.com/linkedin/coral) - Coral is a translation, analysis, and query rewrite engine for SQL and other relational languages.
