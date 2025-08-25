@@ -65,7 +65,6 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
-- [YAML](#yaml)
 
 ## Astro 
 
@@ -1410,7 +1409,7 @@
 - [DataDog/the-monitor](https://github.com/DataDog/the-monitor) - Markdown files for Datadog's longform blog posts: https://www.datadoghq.com/blog/
 - [JasonSanford/geojsonlint.com](https://github.com/JasonSanford/geojsonlint.com) - A simple Django app to validate your GeoJSON
 - [jcranmer/mozilla-coverage](https://github.com/jcranmer/mozilla-coverage) - Various code coverage scripts I use for mozilla
-- [remarshal-project/remarshal](https://github.com/remarshal-project/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML
+- [remarshal-project/remarshal](https://github.com/remarshal-project/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML 1.1 & 1.2
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [prakhar1989/Algorithms](https://github.com/prakhar1989/Algorithms) - :computer: Data Structures and Algorithms in Python
 - [sbma44/japan_geodata_research](https://github.com/sbma44/japan_geodata_research) - Examining the possibility of reconciling MLIT Shapefile with Japan Post CSV.
@@ -1816,6 +1815,7 @@
 - [autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs) - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry.
 - [ekzhang/percival](https://github.com/ekzhang/percival) - 📝 Web-based, reactive Datalog notebooks for data analysis and visualization
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
@@ -2009,6 +2009,8 @@
 
 ## TypeScript 
 
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
+- [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 - [dataflint/spark](https://github.com/dataflint/spark) - Drop-in replacement for Apache Spark UI
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🚀 Glide Data Grid is a no compromise, outrageously fast react data grid with rich rendering, first class accessibility, and full TypeScript support.
@@ -2149,10 +2151,6 @@
 ## XSLT 
 
 - [steveathon/GSJSON](https://github.com/steveathon/GSJSON) - JSON Stylesheet for the Google Search Appliance (GSA)
-
-## YAML 
-
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 
 ## License
