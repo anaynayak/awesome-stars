@@ -1631,7 +1631,6 @@
 - [pdelanauze/vagrant-openam](https://github.com/pdelanauze/vagrant-openam) - OpenJDK 7 / Tomcat6 / OpenAM 10.0.0 vagrant distribution with chef recipes
 - [ranjib/chef-stage](https://github.com/ranjib/chef-stage) - Cookbook to facilitate multistage chef runs
 - [trailblazer/cells](https://github.com/trailblazer/cells) - View components for Ruby and Rails.
-- [tekvision/brails](https://github.com/tekvision/brails) - Brails is a Learning site for the visually impaired
 - [maoueh/nugrant](https://github.com/maoueh/nugrant) - Vagrant plugin enabling user specific configuration values
 - [jasonrobertfox/chef-broiler-plate](https://github.com/jasonrobertfox/chef-broiler-plate) - An opinionated, test driven, "broiler platter" for developing your chef infrastructure.
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
@@ -1864,7 +1863,7 @@
 
 - [yahoo/CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
 - [G-Research/spark-extension](https://github.com/G-Research/spark-extension) - A library that provides useful extensions to Apache Spark and PySpark.
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - A better build tool for Java, Scala and Kotlin: 3-6x faster than Maven or Gradle, less fiddling with plugins, and more easily explorable in your IDE
 - [apache/incubator-gluten](https://github.com/apache/incubator-gluten) - Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
 - [optics-dev/Monocle](https://github.com/optics-dev/Monocle) - Optics library for Scala
 - [harsha2010/magellan](https://github.com/harsha2010/magellan) - Geo Spatial Data Analytics on Spark
