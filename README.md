@@ -1232,7 +1232,7 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security and IT teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security and production engineers..
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
 - [datacontract/datacontract-cli](https://github.com/datacontract/datacontract-cli) - Enforce Data Contracts
@@ -1245,6 +1245,7 @@
 - [carbonfact/lea](https://github.com/carbonfact/lea) - 🏃‍♀️ Minimalist SQL orchestrator
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [erikbern/ann-benchmarks](https://github.com/erikbern/ann-benchmarks) - Benchmarks of approximate nearest neighbor libraries in Python
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [PyAr/fades](https://github.com/PyAr/fades) - fades is a system that automatically handles the virtualenvs in the cases normally found when writing scripts and simple programs, and even helps to administer big projects.
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
@@ -2056,7 +2057,6 @@
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [dodona-edu/dolos](https://github.com/dodona-edu/dolos) - :detective: Source code plagiarism detection
