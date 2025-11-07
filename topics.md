@@ -25,7 +25,6 @@
 - [babel](#babel)
 - [backend](#backend)
 - [bash](#bash)
-- [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [bugbounty](#bugbounty)
@@ -711,10 +710,6 @@
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-
-## blockchain 
-
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
 
 ## bootstrap 
 
