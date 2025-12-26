@@ -1156,6 +1156,7 @@
 
 ## Python 
 
+- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [cnoe-io/ai-platform-engineering](https://github.com/cnoe-io/ai-platform-engineering) - CAIPE: Community AI Platform Engineering Multi-Agent Systems
 - [google-agentic-commerce/AP2](https://github.com/google-agentic-commerce/AP2) - Building a Secure and Interoperable Future for AI-Driven Payments.
@@ -2020,7 +2021,6 @@
 
 ## TypeScript 
 
-- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [google/A2UI](https://github.com/google/A2UI) - 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
@@ -2089,7 +2089,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
