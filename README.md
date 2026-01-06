@@ -288,7 +288,7 @@
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
-- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
+- [dagger/dagger](https://github.com/dagger/dagger) - The agent-ready test platform. Test any codebase end-to-end, repeatably and at scale. Runs locally, in your CI server, or directly in the cloud.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
@@ -1266,7 +1266,7 @@
 - [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-
 - [buildinspace/peru](https://github.com/buildinspace/peru) - a generic package manager, for including other people's code in your projects
 - [Kinto/kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
-- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nl
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet, the Google Summer
 - [microsoft/sarif-tools](https://github.com/microsoft/sarif-tools) - A set of Python command line tools for working with SARIF files produced by code analysis tools
 - [shaneramey/vault-backup](https://github.com/shaneramey/vault-backup) - Dump your Hashicorp Vault to a file. Not guaranteed to be consistent.
 - [dora-metrics/pelorus](https://github.com/dora-metrics/pelorus) - Automate the measurement of organizational behavior
@@ -2119,7 +2119,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
