@@ -57,7 +57,6 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Starlark](#starlark)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TLA](#tla)
 - [TeX](#tex)
@@ -887,7 +886,7 @@
 - [ydataai/ydata-synthetic](https://github.com/ydataai/ydata-synthetic) - Synthetic data generators for tabular and time-series data
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
-- [roboflow/notebooks](https://github.com/roboflow/notebooks) - A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like YOLO11, RT-DETR, SAM 2, 
+- [roboflow/notebooks](https://github.com/roboflow/notebooks) - A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like RF-DETR, YOLO11, SAM 3, 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [LucaCanali/Miscellaneous](https://github.com/LucaCanali/Miscellaneous) - Includes notes on using Apache Spark, with drill down on  Spark for Physics, how to run TPCDS on PySpark, how to create histograms with Spark. Also tools for stress testing, measuring CPUs' performanc
 - [Brunel-Visualization/Brunel](https://github.com/Brunel-Visualization/Brunel) - Brunel Visualization
@@ -1247,6 +1246,7 @@
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [datacontract/datacontract-cli](https://github.com/datacontract/datacontract-cli) - Enforce Data Contracts
 - [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
@@ -1989,10 +1989,6 @@
 ## Starlark 
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
-
-## Svelte 
-
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Swift 
 
