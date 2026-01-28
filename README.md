@@ -257,13 +257,13 @@
 - [docker/sbom-cli-plugin](https://github.com/docker/sbom-cli-plugin) - Plugin for Docker CLI to support SBOM creation using Syft
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
+- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [jetify-com/typeid](https://github.com/jetify-com/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [egen/safe](https://github.com/egen/safe) - A Vault CLI
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 - [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
@@ -305,7 +305,7 @@
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 - [schemahero/schemahero](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas)
 - [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
@@ -376,7 +376,7 @@
 - [mperham/inspeqtor](https://github.com/mperham/inspeqtor) - Monitor your application infrastructure!
 - [alphagov/cdn-acceptance-tests](https://github.com/alphagov/cdn-acceptance-tests) - CDN Acceptance Tests
 - [weaveworks/weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host containers networking and more.
-- [Yelp/dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
+- [YelpArchive/dockersh](https://github.com/YelpArchive/dockersh) - A shell which places users into individual docker containers
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -399,6 +399,7 @@
 
 ## HCL 
 
+- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI
 - [LinkedInLearning/advanced-terraform-2823489](https://github.com/LinkedInLearning/advanced-terraform-2823489) - Advanced Terraform
 - [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components) - Opinionated, self-contained Terraform root modules that each solve one, specific problem
 - [trussworks/terraform-aws-s3-private-bucket](https://github.com/trussworks/terraform-aws-s3-private-bucket) - Creates a private, encrypted, versioned S3 bucket with good defaults.
@@ -1200,8 +1201,8 @@
 - [echohive42/AI-reads-books-page-by-page](https://github.com/echohive42/AI-reads-books-page-by-page) - AI reads books: Page-by-Page PDF Knowledge Extractor & Summarizer. script performs an intelligent page-by-page analysis of PDF books, methodically extracting knowledge points and generating progressiv
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
-- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - Build. Observe. Iterate. Ship.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage multi-agent systems.
+- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - The LLM Anti-Framework
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
 - [seratch/ChatGPT-in-Slack](https://github.com/seratch/ChatGPT-in-Slack) - Swift demonstration of how to build a Slack app that enables end-users to interact with a ChatGPT bot
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
@@ -1392,7 +1393,7 @@
 - [RasaHQ/rasa_core](https://github.com/RasaHQ/rasa_core) - Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [gramps-project/gramps](https://github.com/gramps-project/gramps) - Source code for Gramps Genealogical program
-- [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
+- [YelpArchive/elastalert](https://github.com/YelpArchive/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org
 - [buildtimetrend/service](https://github.com/buildtimetrend/service) - Buildtime Trend as a Service
 - [soundcloud/project-dev-kpis](https://github.com/soundcloud/project-dev-kpis) - Key Performance Indicators of product development teams.
@@ -1492,7 +1493,7 @@
 - [seporaitis/yum-s3-iam](https://github.com/seporaitis/yum-s3-iam) - Yum package manager plugin for private S3 repositories. Uses Amazon IAM & EC2 Roles.
 - [etsy/skyline](https://github.com/etsy/skyline) - It'll detect your anomalies! Part of the Kale stack.
 - [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
-- [Yelp/dataset-examples](https://github.com/Yelp/dataset-examples) - Samples for users of the Yelp Academic Dataset
+- [YelpArchive/dataset-examples](https://github.com/YelpArchive/dataset-examples) - Samples for users of the Yelp Academic Dataset
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [quantopian/zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
@@ -1881,7 +1882,7 @@
 
 - [yahoo/CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
 - [G-Research/spark-extension](https://github.com/G-Research/spark-extension) - A library that provides useful extensions to Apache Spark and PySpark.
-- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-6x faster dev workflows than other JVM build tools
+- [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflows than other JVM build tools
 - [apache/incubator-gluten](https://github.com/apache/incubator-gluten) - Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
 - [optics-dev/Monocle](https://github.com/optics-dev/Monocle) - Optics library for Scala
 - [harsha2010/magellan](https://github.com/harsha2010/magellan) - Geo Spatial Data Analytics on Spark
@@ -1925,7 +1926,6 @@
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
-- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI
 - [bitol-io/open-data-contract-standard](https://github.com/bitol-io/open-data-contract-standard) - Home of the Open Data Contract Standard (ODCS).
 - [devsecops/bootcamp](https://github.com/devsecops/bootcamp) - A open contribute bootcamp to develop DevSecOps skills...
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
@@ -2033,6 +2033,8 @@
 
 ## TypeScript 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
