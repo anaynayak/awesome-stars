@@ -186,6 +186,7 @@
 
 ## Dockerfile 
 
+- [alvr/alpine-android](https://github.com/alvr/alpine-android) - 🐋 Small docker image for building & testing Android applications.
 - [cnstlungu/portable-data-stack-dagster](https://github.com/cnstlungu/portable-data-stack-dagster) - A portable Datamart and Business Intelligence suite built with Docker, Dagster, dbt, DuckDB and Superset
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
 - [autometrics-dev/autometrics-shared](https://github.com/autometrics-dev/autometrics-shared) - Resources used by all of the autometrics implementations
@@ -227,7 +228,7 @@
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
 - [bomfather/minefield](https://github.com/bomfather/minefield) - Graphing SBOM's Fast.
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
@@ -416,6 +417,7 @@
 - [re-data/re-data](https://github.com/re-data/re-data) - re_data - fix data issues before your users & CEO would discover them 😊
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [OWASP/ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [elementary-data/elementary](https://github.com/elementary-data/elementary) - The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
@@ -572,6 +574,8 @@
 
 ## JavaScript 
 
+- [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
+- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
@@ -932,7 +936,6 @@
 ## MDX 
 
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile 
 
@@ -1344,6 +1347,7 @@
 - [rsyi/whale](https://github.com/rsyi/whale) - 🐳 The stupidly simple CLI workspace for your data warehouse.
 - [capitalone/datacompy](https://github.com/capitalone/datacompy) - Pandas, Polars, Spark, and Snowpark DataFrame comparison for humans and more!
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [snorkel-team/snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision
 - [lrvick/youtube-dl](https://github.com/lrvick/youtube-dl) - RIAA: Please go die in a fire.
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
@@ -1943,7 +1947,6 @@
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [z0ph/aws-security-toolbox](https://github.com/z0ph/aws-security-toolbox) - AWS Security Tools (AST) in a simple Docker container. :package:
-- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [yubiuser/pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool) - A tool to analyse how your pihole adlists cover you browsing behavior
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
@@ -2039,10 +2042,11 @@
 
 ## TypeScript 
 
+- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
-- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - API access for agents & apps.
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
