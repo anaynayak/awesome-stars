@@ -1717,7 +1717,7 @@
 - [berkshelf/berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager
 - [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen) - Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms
 - [vmware-archive/projectmonitor](https://github.com/vmware-archive/projectmonitor) - Big Visible Chart CI aggregator
-- [jubos/fake-s3](https://github.com/jubos/fake-s3) - A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies
+- [curtis0x/fake-s3](https://github.com/curtis0x/fake-s3) - A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies
 - [portertech/chef-journalist](https://github.com/portertech/chef-journalist) - A report handler for OpsCode Chef runs, outputs a list of updated resources.
 - [bmarini/health_inspector](https://github.com/bmarini/health_inspector) - This project has been moved to http://github.com/bmarini/knife-inspect
 - [knife-block/knife-block](https://github.com/knife-block/knife-block) - Create and use multiple knife.rb files in Chef
@@ -2066,7 +2066,7 @@
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
 - [MCP-Defender/MCP-Defender](https://github.com/MCP-Defender/MCP-Defender) - Desktop app that automatically scans and blocks malicious MCP traffic in AI apps like Cursor, Claude, VS Code and Windsurf.
