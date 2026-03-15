@@ -840,7 +840,7 @@
 - [twitter/typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library
 - [creatorrr/OpenKudos](https://github.com/creatorrr/OpenKudos) - An open source port of dcurt.is Kudos buttons (Example below.)
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
-- [kandanapp/kandan](https://github.com/kandanapp/kandan) - Kandan is an Open Source Alternative to HipChat
+- [DamageLabs/kandan](https://github.com/DamageLabs/kandan) - Kandan is an Open Source Alternative to HipChat
 - [jtleek/dataanalysis](https://github.com/jtleek/dataanalysis) - The lecture slides for Coursera's Data Analysis class
 - [javallone/regexper](https://github.com/javallone/regexper) - Regular Expression Visualization Site
 - [guillaumepotier/Parsley.js](https://github.com/guillaumepotier/Parsley.js) - Validate your forms, frontend, without writing a single line of javascript
@@ -1337,7 +1337,7 @@
 - [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
 - [linkedin/greykite](https://github.com/linkedin/greykite) - A flexible, intuitive and fast forecasting library
 - [mljar/mljar-supervised](https://github.com/mljar/mljar-supervised) - Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI agents, LLM applications, and ML models while controlling cos
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
 - [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict) - Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning
 - [aws/aws-emr-containers-best-practices](https://github.com/aws/aws-emr-containers-best-practices) - Best practices and recommendations for getting started with Amazon EMR on EKS.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
