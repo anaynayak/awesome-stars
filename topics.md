@@ -69,6 +69,7 @@
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -1497,6 +1498,17 @@
 ## discord 
 
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
+
+## distributed-systems 
+
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
+- [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL
+- [uwplse/verdi-raft](https://github.com/uwplse/verdi-raft) - An implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework
+- [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems.
+- [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
+- [worstcase/blockade](https://github.com/worstcase/blockade) - Docker-based utility for testing network failures and partitions in distributed applications
 
 ## django 
 
@@ -3217,7 +3229,7 @@
 - [docker/sbom-cli-plugin](https://github.com/docker/sbom-cli-plugin) - Plugin for Docker CLI to support SBOM creation using Syft
 - [cybeats/sbomgen](https://github.com/cybeats/sbomgen) - List of SBOM Generation Tools
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
-- [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
+- [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
 - [jetify-com/typeid](https://github.com/jetify-com/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
@@ -3332,7 +3344,6 @@
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 - [emilybache/Racing-Car-Katas](https://github.com/emilybache/Racing-Car-Katas) - Several code katas on a racing car theme
-- [uwplse/verdi-raft](https://github.com/uwplse/verdi-raft) - An implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 💀 Homebrew/bundle (merged into Homebrew/brew)
 - [keymetrics/event-loop-inspector](https://github.com/keymetrics/event-loop-inspector) - (DEPRECATED) Dump event loop's current stats.
 - [marianoguerra/json.human.js](https://github.com/marianoguerra/json.human.js) - Convert JSON to human readable HTML
@@ -3396,7 +3407,6 @@
 - [ketansoni/eventsourcing](https://github.com/ketansoni/eventsourcing) - This is small app demonstrating event sourcing system
 - [aws/aws-health-tools](https://github.com/aws/aws-health-tools) - The samples provided in AWS Health Tools can help users to build automation and customized alerting in response to AWS Health events.
 - [PivotalSharedIreland/trilogy](https://github.com/PivotalSharedIreland/trilogy) - Trilogy has moved to
-- [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
 - [abhishekswain/jasmine2-protractor-utils](https://github.com/abhishekswain/jasmine2-protractor-utils) - Utilities for Protractor with jasmine2 [HTML Reports, Screenshot, Browser Console log]
 - [thenano/tech-radar](https://github.com/thenano/tech-radar) - A library that creates an interactive radar. The example shows a dynamically generated radar from data on a public google sheet:
 - [aphyr/distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
