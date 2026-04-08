@@ -1185,10 +1185,11 @@
 
 ## Python 
 
+- [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-- [agno-agi/dash](https://github.com/agno-agi/dash) - Self-learning data agent that grounds its answers in 6 layers of context. Inspired by OpenAI's in-house implementation.
+- [agno-agi/dash](https://github.com/agno-agi/dash) - A self-learning data agent built with systems engineering principles. It grounds answers in 6 layers of context and improves with every query.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [Universal-Commerce-Protocol/ucp](https://github.com/Universal-Commerce-Protocol/ucp) - Specification and documentation for the Universal Commerce Protocol (UCP)
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
