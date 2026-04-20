@@ -3194,7 +3194,7 @@
 - [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) - A collection of my favorite custom Claude Code resources to make life easier.
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cowork.
@@ -4128,7 +4128,7 @@
 - [binarylogic/authlogic](https://github.com/binarylogic/authlogic) - A simple ruby authentication solution.
 - [sevenwire/bootstrapper](https://github.com/sevenwire/bootstrapper) - A Rails plugin to assist in bootstrapping and seeding your database.
 - [carrierwaveuploader/carrierwave](https://github.com/carrierwaveuploader/carrierwave) - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
-- [mojodna/oauth-proxy](https://github.com/mojodna/oauth-proxy) - (in-use) An HTTP proxy for signing OAuth requests
+- [sethfitz/oauth-proxy](https://github.com/sethfitz/oauth-proxy) - (in-use) An HTTP proxy for signing OAuth requests
 - [thoughtbot/paperclip](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord
 - [ci-reporter/ci_reporter](https://github.com/ci-reporter/ci_reporter) - CI::Reporter is an add-on to popular test frameworks that allows you to generate XML reports
 - [sprinkle-tool/sprinkle](https://github.com/sprinkle-tool/sprinkle) - Sprinkle is a software provisioning tool you can use to build remote servers with. eg. to install a Rails, or Sinatra stack on a brand new slice directly after its been created
