@@ -999,7 +999,7 @@
 ## Others 
 
 - [AutoJunjie/awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness) - 
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 - [snird/awesome-data-engineering-learning](https://github.com/snird/awesome-data-engineering-learning) - Awesome list of data engineering learning materials by subject
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
@@ -1539,7 +1539,7 @@
 - [tmm1/gdb.rb](https://github.com/tmm1/gdb.rb) - gdb hooks for MRI/REE (and some for YARV)
 - [somic/graphite-rabbitmq](https://github.com/somic/graphite-rabbitmq) - Graphite + RabbitMQ integration scripts
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
-- [mojodna/oauth-proxy](https://github.com/mojodna/oauth-proxy) - (in-use) An HTTP proxy for signing OAuth requests
+- [sethfitz/oauth-proxy](https://github.com/sethfitz/oauth-proxy) - (in-use) An HTTP proxy for signing OAuth requests
 
 ## R 
 
