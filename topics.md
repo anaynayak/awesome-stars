@@ -4383,7 +4383,7 @@
 - [dbrattli/OSlash](https://github.com/dbrattli/OSlash) - Functors, Applicatives, And Monads in Python
 - [singer-io/getting-started](https://github.com/singer-io/getting-started) - This repository is a getting started guide to Singer.
 - [LucaCanali/sparkMeasure](https://github.com/LucaCanali/sparkMeasure) - This repository contains the development code for sparkMeasure, an Apache Spark performance analysis and troubleshooting library. It simplifies collecting, aggregating, and exporting Spark task/stage 
-- [movingpandas/movingpandas](https://github.com/movingpandas/movingpandas) - Movement trajectory classes and functions built on top of GeoPandas
+- [movingpandas/movingpandas](https://github.com/movingpandas/movingpandas) - MovingPandas - a Python library for movement data exploration and analysis
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [zero323/pyspark-stubs](https://github.com/zero323/pyspark-stubs) - Apache (Py)Spark type annotations  (stub files).
 - [ashwin711/georaptor](https://github.com/ashwin711/georaptor) - Python Geohash Compression Tool
