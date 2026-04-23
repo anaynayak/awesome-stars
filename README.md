@@ -1375,7 +1375,7 @@
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [oturns/geosnap](https://github.com/oturns/geosnap) - The Geospatial Neighborhood Analysis Package
-- [movingpandas/movingpandas](https://github.com/movingpandas/movingpandas) - Movement trajectory classes and functions built on top of GeoPandas
+- [movingpandas/movingpandas](https://github.com/movingpandas/movingpandas) - MovingPandas - a Python library for movement data exploration and analysis
 - [Barski-lab/cwl-airflow](https://github.com/Barski-lab/cwl-airflow) - Python package to extend Airflow functionality with CWL1.1 support
 - [cloudalchemy/ansible-node-exporter](https://github.com/cloudalchemy/ansible-node-exporter) - Provision basic metrics exporter for prometheus monitoring tool
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
