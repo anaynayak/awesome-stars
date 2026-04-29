@@ -239,7 +239,7 @@
 - [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
 - [bomfather/minefield](https://github.com/bomfather/minefield) - Graphing SBOM's Fast.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
@@ -446,6 +446,7 @@
 - [ahmadnassri/har-resources](https://github.com/ahmadnassri/har-resources) - A community curated list of resources, tools, projects and applications that support HTTP Archive (HAR).
 - [yccheok/jstock](https://github.com/yccheok/jstock) - JStock is a free stock market software for 28 countries.
 - [dev-sec/ansible-ssh-hardening](https://github.com/dev-sec/ansible-ssh-hardening) - This Ansible role provides numerous security-related ssh configurations, providing all-round base protection.
+- [jtblin/angular-chart.js](https://github.com/jtblin/angular-chart.js) - Reactive, responsive, beautiful charts for AngularJS using Chart.js: http://jtblin.github.io/angular-chart.js
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 - [littleark/githut](https://github.com/littleark/githut) - Visualization of data from github archive.
 - [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io
@@ -722,7 +723,6 @@
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [dthree/cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
 - [es-analysis/plato](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool
-- [jtblin/angular-chart.js](https://github.com/jtblin/angular-chart.js) - Reactive, responsive, beautiful charts for AngularJS using Chart.js: http://jtblin.github.io/angular-chart.js
 - [max-mapper/art-of-node](https://github.com/max-mapper/art-of-node) - :snowflake: a short introduction to node.js
 - [vincelwt/RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
 - [bradenericson/Uber-Angular-Module](https://github.com/bradenericson/Uber-Angular-Module) - An Angular Module used to work with the Uber API.
@@ -1227,7 +1227,7 @@
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - The LLM Anti-Framework
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build in any framework. Run as a service. Ship to real users.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
 - [seratch/ChatGPT-in-Slack](https://github.com/seratch/ChatGPT-in-Slack) - Swift demonstration of how to build a Slack app that enables end-users to interact with a ChatGPT bot
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
