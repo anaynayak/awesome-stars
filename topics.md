@@ -307,7 +307,7 @@
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
-- [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
+- [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - An experimental agent that works across the browser and local file system
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
@@ -350,7 +350,7 @@
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
-- [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
+- [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - An experimental agent that works across the browser and local file system
 - [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) - II-Agent: a new open-source framework to build and deploy intelligent agents
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
@@ -423,7 +423,7 @@
 
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [always-further/nono](https://github.com/always-further/nono) - Capability-based sandboxes with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency
+- [always-further/nono](https://github.com/always-further/nono) - Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency
 - [AutoJunjie/awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness) - 
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
@@ -2854,7 +2854,7 @@
 
 ## mcp 
 
-- [always-further/nono](https://github.com/always-further/nono) - Capability-based sandboxes with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency
+- [always-further/nono](https://github.com/always-further/nono) - Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
@@ -4781,7 +4781,7 @@
 
 ## security 
 
-- [always-further/nono](https://github.com/always-further/nono) - Capability-based sandboxes with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency
+- [always-further/nono](https://github.com/always-further/nono) - Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
@@ -5266,7 +5266,7 @@
 
 ## ui 
 
-- [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
+- [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - An experimental agent that works across the browser and local file system
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
