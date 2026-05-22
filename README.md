@@ -103,7 +103,6 @@
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [facebookincubator/velox](https://github.com/facebookincubator/velox) - A composable and fully extensible C++ execution engine library for data management systems.
-- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
@@ -229,6 +228,7 @@
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+- [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
@@ -1207,7 +1207,7 @@
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [blablatdinov/ondivi](https://github.com/blablatdinov/ondivi) - Ondivi (Only diff violations) is a Python script filtering coding violations, identified by static analysis, only for changed lines in a Git repo.
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
-- [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
+- [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - An experimental agent that works across the browser and local file system
 - [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) - II-Agent: a new open-source framework to build and deploy intelligent agents
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
@@ -1836,7 +1836,7 @@
 ## Rust 
 
 - [kenforthewin/atomic](https://github.com/kenforthewin/atomic) - Self-hosted, semantically-connected personal knowledge base
-- [always-further/nono](https://github.com/always-further/nono) - Capability-based sandboxes with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency
+- [always-further/nono](https://github.com/always-further/nono) - Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
@@ -1869,6 +1869,7 @@
 - [ekzhang/percival](https://github.com/ekzhang/percival) - 📝 Web-based, reactive Datalog notebooks for data analysis and visualization
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
@@ -2111,7 +2112,6 @@
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
-- [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [cursor/community-plugins](https://github.com/cursor/community-plugins) - Plugins from the Cursor community
 - [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
