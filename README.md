@@ -1476,7 +1476,7 @@
 - [Emsu/prophet](https://github.com/Emsu/prophet) - Financial markets analysis framework for programmers
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 - [kevinburke/hamms](https://github.com/kevinburke/hamms) - Malformed servers to test your HTTP client
-- [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent
+- [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent, now in Python.
 - [apenwarr/sshuttle](https://github.com/apenwarr/sshuttle) - Wrong project!  You should head over to http://github.com/sshuttle/sshuttle
 - [cgoldberg/multi-mechanize](https://github.com/cgoldberg/multi-mechanize) - Performance Test Framework in Python
 - [lauris/awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
