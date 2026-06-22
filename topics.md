@@ -2059,6 +2059,7 @@
 
 ## hacktoberfest 
 
+- [browser-history/browser-history](https://github.com/browser-history/browser-history) - A simple, zero-dependencies, developer-friendly Python package to retrieve web browser history
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
@@ -3229,6 +3230,7 @@
 
 ## others 
 
+- [boringdata/boring-semantic-layer](https://github.com/boringdata/boring-semantic-layer) - 
 - [workos/auth.md](https://github.com/workos/auth.md) - An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain.
 - [ExtendDB/extenddb](https://github.com/ExtendDB/extenddb) - ExtendDB
 - [Nomadu27/InsAIts-public](https://github.com/Nomadu27/InsAIts-public) - Runtime Security for Multi-Agent AI — Website & Documentation
@@ -4334,6 +4336,7 @@
 
 ## python 
 
+- [browser-history/browser-history](https://github.com/browser-history/browser-history) - A simple, zero-dependencies, developer-friendly Python package to retrieve web browser history
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
@@ -4500,6 +4503,7 @@
 
 ## python3 
 
+- [browser-history/browser-history](https://github.com/browser-history/browser-history) - A simple, zero-dependencies, developer-friendly Python package to retrieve web browser history
 - [seratch/ChatGPT-in-Slack](https://github.com/seratch/ChatGPT-in-Slack) - Swift demonstration of how to build a Slack app that enables end-users to interact with a ChatGPT bot
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
