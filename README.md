@@ -663,7 +663,7 @@
 - [ErikGartner/dTree](https://github.com/ErikGartner/dTree) - A library for visualizing data trees with multiple parents, such as family trees. Built on top of D3.
 - [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
 - [staltz/rxmarbles](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables
-- [mapbox/flamebearer](https://github.com/mapbox/flamebearer) - Blazing fast flame graph tool for V8 and Node 🔥
+- [mourner/flamebearer](https://github.com/mourner/flamebearer) - Blazing fast flame graph tool for V8 and Node 🔥
 - [jezhumble/cloud-native-aws-terraform-workshop](https://github.com/jezhumble/cloud-native-aws-terraform-workshop) - A 1-day training class on how to deploy a cloud native app on AWS with Terraform and shell scripts
 - [dutzi/tamper](https://github.com/dutzi/tamper) - Devtools extension, lets you locally edit files served from the web (based on mitmproxy).
 - [alangrafu/timeknots](https://github.com/alangrafu/timeknots) - Minimalist timeline in javascript based on d3.js. This work was inspired by https://github.com/mquan/timeline
