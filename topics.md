@@ -426,7 +426,7 @@
 
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [always-further/nono](https://github.com/always-further/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
 - [AutoJunjie/awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness) - 
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
@@ -438,7 +438,7 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
-- [cnoe-io/ai-platform-engineering](https://github.com/cnoe-io/ai-platform-engineering) - CAIPE: Community AI Platform Engineering Multi-Agent Systems
+- [cnoe-io/ai-platform-engineering](https://github.com/cnoe-io/ai-platform-engineering) - CAIPE: Community AI Platform Engineering
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
@@ -954,6 +954,7 @@
 - [drasimwagan/mdv](https://github.com/drasimwagan/mdv) - MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension.
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
@@ -1529,6 +1530,7 @@
 
 ## devops 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
@@ -1823,6 +1825,7 @@
 
 ## git 
 
+- [andes90/collabmd](https://github.com/andes90/collabmd) - Realtime collaboration for markdown folders, diagrams, and git-backed docs.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
@@ -1943,6 +1946,7 @@
 
 ## golang 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱
@@ -2368,7 +2372,7 @@
 - [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
 - [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
-- [mourner/flamebearer](https://github.com/mourner/flamebearer) - Blazing fast flame graph tool for V8 and Node 🔥
+- [mourner/flamebearer](https://github.com/mourner/flamebearer) - A JavaScript CPU trace analysis tool for agents and humans
 - [single-spa/single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends
 - [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 - [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
@@ -2579,6 +2583,7 @@
 
 ## linux 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI Tool to Automate Your Everyday Web Browser.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
@@ -2784,6 +2789,7 @@
 
 ## macos 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [sveinbjornt/hear](https://github.com/sveinbjornt/hear) - Command line interface for the built-in speech recognition and transcription capabilities in macOS.
 - [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) - :keyboard: The missing keyboard shortcut utility for macOS
@@ -2836,6 +2842,7 @@
 
 ## markdown 
 
+- [andes90/collabmd](https://github.com/andes90/collabmd) - Realtime collaboration for markdown folders, diagrams, and git-backed docs.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [drasimwagan/mdv](https://github.com/drasimwagan/mdv) - MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
@@ -2870,7 +2877,7 @@
 ## mcp 
 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [always-further/nono](https://github.com/always-further/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
@@ -3079,7 +3086,7 @@
 
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
-- [mourner/flamebearer](https://github.com/mourner/flamebearer) - Blazing fast flame graph tool for V8 and Node 🔥
+- [mourner/flamebearer](https://github.com/mourner/flamebearer) - A JavaScript CPU trace analysis tool for agents and humans
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [geekcell/docker-compose-nodejs-examples](https://github.com/geekcell/docker-compose-nodejs-examples) - Finally some real world examples on getting started with Docker Compose and Nodejs.
 - [angular/protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps
@@ -3150,6 +3157,7 @@
 
 ## obsidian 
 
+- [andes90/collabmd](https://github.com/andes90/collabmd) - Realtime collaboration for markdown folders, diagrams, and git-backed docs.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 
 ## open-source 
@@ -3243,7 +3251,6 @@
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [anthropics/courses](https://github.com/anthropics/courses) - Anthropic's educational courses
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [coder/agentapi](https://github.com/coder/agentapi) - HTTP API for Claude Code, Goose, Aider, Gemini, Amp, and Codex
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
@@ -4810,7 +4817,7 @@
 
 ## security 
 
-- [always-further/nono](https://github.com/always-further/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
@@ -4902,6 +4909,7 @@
 
 ## self-hosted 
 
+- [andes90/collabmd](https://github.com/andes90/collabmd) - Realtime collaboration for markdown folders, diagrams, and git-backed docs.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
@@ -5225,6 +5233,7 @@
 
 ## tui 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
@@ -5367,7 +5376,6 @@
 - [graphistry/pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer
 - [alx/parasol](https://github.com/alx/parasol) - A network graph exploration tool
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
-- [mourner/flamebearer](https://github.com/mourner/flamebearer) - Blazing fast flame graph tool for V8 and Node 🔥
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
@@ -5443,6 +5451,7 @@
 
 ## windows 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
