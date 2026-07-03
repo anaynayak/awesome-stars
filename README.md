@@ -226,7 +226,7 @@
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
