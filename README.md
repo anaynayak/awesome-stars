@@ -1185,6 +1185,7 @@
 
 ## Python 
 
+- [typedef-ai/fenic](https://github.com/typedef-ai/fenic) - Semantic DataFrames for humans and agents
 - [browser-history/browser-history](https://github.com/browser-history/browser-history) - A simple, zero-dependencies, developer-friendly Python package to retrieve web browser history
 - [boringdata/boring-semantic-layer](https://github.com/boringdata/boring-semantic-layer) - 
 - [datnguye/dbterd](https://github.com/datnguye/dbterd) - Generate the ERD as a code from dbt artifacts
