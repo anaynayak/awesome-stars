@@ -2323,7 +2323,7 @@
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [odpi/egeria](https://github.com/odpi/egeria) - Egeria core
 - [microsoft/gctoolkit](https://github.com/microsoft/gctoolkit) - Tool for parsing GC logs
-- [refactorfirst/RefactorFirst](https://github.com/refactorfirst/RefactorFirst) - Identifies and prioritizes God Classes Highly Coupled classes, and Class Cycles in Java codebases you should refactor first.
+- [refactorfirst/RefactorFirst](https://github.com/refactorfirst/RefactorFirst) - Identifies and prioritizes God Classes, Highly Coupled classes, and Class Cycles in Java codebases you should refactor first.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [divolte/divolte-collector](https://github.com/divolte/divolte-collector) - Divolte Collector
@@ -2915,7 +2915,7 @@
 ## maven 
 
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
-- [refactorfirst/RefactorFirst](https://github.com/refactorfirst/RefactorFirst) - Identifies and prioritizes God Classes Highly Coupled classes, and Class Cycles in Java codebases you should refactor first.
+- [refactorfirst/RefactorFirst](https://github.com/refactorfirst/RefactorFirst) - Identifies and prioritizes God Classes, Highly Coupled classes, and Class Cycles in Java codebases you should refactor first.
 - [takari/maven-profiler](https://github.com/takari/maven-profiler) - Simple profiler for your Maven builds.
 
 ## mcp 
