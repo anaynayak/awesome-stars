@@ -211,7 +211,7 @@
 - [sivchari/kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [Meesho/BharatMLStack](https://github.com/Meesho/BharatMLStack) - BharatMLStack is an open-source, end-to-end machine learning infrastructure stack built at Meesho to support real-time and batch ML workloads at Bharat scale
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
@@ -583,6 +583,7 @@
 
 ## JavaScript 
 
+- [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode, Kimi Code) into self-contained, embeddable HTML  replays
 - [andes90/collabmd](https://github.com/andes90/collabmd) - Realtime collaboration for markdown folders, diagrams, and git-backed docs.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
@@ -1181,6 +1182,7 @@
 
 ## Python 
 
+- [generative-computing/mellea](https://github.com/generative-computing/mellea) - Mellea is a library for writing generative programs.
 - [typedef-ai/fenic](https://github.com/typedef-ai/fenic) - Semantic DataFrames for humans and agents
 - [browser-history/browser-history](https://github.com/browser-history/browser-history) - A simple, zero-dependencies, developer-friendly Python package to retrieve web browser history
 - [boringdata/boring-semantic-layer](https://github.com/boringdata/boring-semantic-layer) - 
@@ -1195,7 +1197,7 @@
 - [agno-agi/dash](https://github.com/agno-agi/dash) - A self-learning data agent built with systems engineering principles. It grounds answers in 6 layers of context and improves with every query.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [Universal-Commerce-Protocol/ucp](https://github.com/Universal-Commerce-Protocol/ucp) - Specification and documentation for the Universal Commerce Protocol (UCP)
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 - [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
 - [platisd/duplicate-code-detection-tool](https://github.com/platisd/duplicate-code-detection-tool) - A simple Python3 tool to detect similarities between files within a repository
@@ -1312,7 +1314,7 @@
 - [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) - Standard and Advanced Demos for learn.cantrill.io courses
 - [Sceptre/sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
@@ -1839,6 +1841,7 @@
 
 ## Rust 
 
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [ExtendDB/extenddb](https://github.com/ExtendDB/extenddb) - ExtendDB
 - [kenforthewin/atomic](https://github.com/kenforthewin/atomic) - Self-hosted, semantically-connected personal knowledge base
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
