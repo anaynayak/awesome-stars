@@ -658,7 +658,7 @@
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [probot/stale](https://github.com/probot/stale) - A GitHub App built with Probot that closes abandoned Issues and Pull Requests after a period of inactivity.
 - [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [hyperapp/hyperapp](https://github.com/hyperapp/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [ErikGartner/dTree](https://github.com/ErikGartner/dTree) - A library for visualizing data trees with multiple parents, such as family trees. Built on top of D3.
 - [googleworkspace/google-chat-samples](https://github.com/googleworkspace/google-chat-samples) - Google Chat app samples.
 - [staltz/rxmarbles](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables
