@@ -1185,6 +1185,7 @@
 
 ## Python 
 
+- [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
 - [protectai/llm-guard](https://github.com/protectai/llm-guard) - The Security Toolkit for LLM Interactions
 - [Privado-Inc/privado](https://github.com/Privado-Inc/privado) - Open Source Static Scanning tool to detect data flows in your code, find data security vulnerabilities & generate accurate Play Store Data Safety Report.
